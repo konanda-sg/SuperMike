@@ -13,3 +13,9 @@ https://dcaos-fs-live-dazn-cdn.dazn.com/keq5dsf6aa4azd9ypzb41u4n/web/stream.mpd?
 #KODIPROP:inputstream.adaptive.license_key=1cb411730cb15d4a8d65d0387bf3e8a5:4a93074234ce8d213901824d87467bdf
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dcaos-fs-live-dazn-cdn.dazn.com/1qy2wfdp4udka16bpdqaev57z1/web/stream.mpd?channel=5063&outlet=dazn-italy&plang=it
+#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="DAZN 🇮🇹", VOLLEY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63d03eb4f8c6554e98c0ccd22fb730f8:ba96be9b5e2fd843214ccbc07e448fb1
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcaos-fs-live-dazn-cdn.dazn.com/qjk2nw2i0ivv135hnz7qxgwlq/web/stream.mpd?channel=5062&outlet=dazn-italy&plang=it
