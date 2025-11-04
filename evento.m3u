@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="DAZN 🇮🇹", test
+#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="DAZN 🇮🇹", RADIO SERIE A 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f06804d659759339895c6e5e38e8bab:6b48f0f2ec0b9d59653124c290f38322
+#KODIPROP:inputstream.adaptive.license_key=10f377f6d63553cfba11153a95ebd9ea:527d8e7452d000e5818bce597d98510c
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcaos-fs-live-dazn-cdn.dazn.com/qujl0p806ewm10dd3vgenqvmc/web/stream.mpd?channel=7440&outlet=dazn-italy&plang=it
+https://dcaos-fs-live-dazn-cdn.dazn.com/keq5dsf6aa4azd9ypzb41u4n/web/stream.mpd?channel=5067&outlet=dazn-italy&plang=it
+
+
+#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="DAZN 🇮🇹", FUTSAL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb411730cb15d4a8d65d0387bf3e8a5:4a93074234ce8d213901824d87467bdf
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcaos-fs-live-dazn-cdn.dazn.com/1qy2wfdp4udka16bpdqaev57z1/web/stream.mpd?channel=5063&outlet=dazn-italy&plang=it
