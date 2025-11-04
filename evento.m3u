@@ -19,3 +19,9 @@ https://dcaos-fs-live-dazn-cdn.dazn.com/1qy2wfdp4udka16bpdqaev57z1/web/stream.mp
 #KODIPROP:inputstream.adaptive.license_key=63d03eb4f8c6554e98c0ccd22fb730f8:ba96be9b5e2fd843214ccbc07e448fb1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dcaos-fs-live-dazn-cdn.dazn.com/qjk2nw2i0ivv135hnz7qxgwlq/web/stream.mpd?channel=5062&outlet=dazn-italy&plang=it
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE", https://dca-fs-live-dazn-cdn.dazn.com/1jns5lhl4z32u1160qhahhk72h/web/stream.mpd?channel=7439&outlet=dazn-italy&plang=it&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjIzNDAzNjQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiMzQ4MmZhNjFhMTU2MjFjOTM5ZjY4YmU4NDJiZDk5ZWZhOWU4NGQwMyIsInNzaWQiOiI5M2RiZjk3YzI4ZmMiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwidWEiOiJiNjVkNDI1MWM4ZTYyYzk1ZjkxN2UwMjY1ZDllMWM0OWEwOGVlN2M1IiwiaWF0IjoxNzYyMjUzOTY0fQ.v-ilVaFqwG6xXctRAnkrs4Ck_gVZbd9BNS6yPciT-7s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=beabb60ac43351c5956239351c50a31e:45b1da6b84f890ea8519156ebfd7e132
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcaos-fs-live-dazn-cdn.dazn.com/1jns5lhl4z32u1160qhahhk72h/web/stream.mpd?channel=7439&outlet=dazn-italy&plang=it
