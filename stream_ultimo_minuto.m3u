@@ -1,49 +1,156 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", DIRETTA GOL
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 205
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=111530195d97bca190f812eb2747e76c:76eb17ed946186c3ea09f54154736a13
+#KODIPROP:inputstream.adaptive.license_key=91b5dc41ef85a25883ca47efb3c6641:5fa7e0ff1e379a83e44005917e3af5f2
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1762425484_s~ffed01f4-2af3-49bd-9c52-e2f650b2b6bd_u~100af3b5e3f81038226646fea0dd3302e7fd53367bd126adb1cca34b8fb7c34c_l~57_x~0abd4e369045a81f968c7c225ecfded63238c63394605fa3cf940f5a50f90163/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd?t=v2&c3.ri=690b1afc_Q1ZYMDc_1_QUtBTUFJ_68dac0bfc69a
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-205/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", CLUB BRUGGE vs BARCELLONA
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 501
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="Serie A 🇮🇹", INTER vs KAIRAT ALMATY
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 502
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98776d9689190a7a5bade0669b9f33cd:1da8c429187267d548bb2f61075d828b
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/imjj8g0rp2/out/v1/5c8988b5f85945ec81acde883ead4581/cenc.mpd
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="Serie A 🇮🇹", INTER vs KAIRAT ALMATY
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 504
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c53947b4be2025415fea71d378ac6a5:e7990a5809933be29ad14ba63d21fa61
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nqku1ovusg/out/v1/5ac557d1824340d1b031adec4cfc2549/cenc.mpd
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", MARSIGLIA vs ATALANTA
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 505
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115b2dbf4fc2e4556f1f77572c2f425:b441b3b449ce6938f7ce9bd6acc2e12b
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1762425497_s~fcdcc731-07f2-4940-ba23-c9734c897472_u~100af3b5e3f81038226646fea0dd3302e7fd53367bd126adb1cca34b8fb7c34c_l~57_x~4bfe5ddde08ee5fc00681de893802c713e6a776668ebec5266c8c2547b45ac5d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport252)/master_2hr-aac.mpd?t=v2&c3.ri=690b1b09_Q1ZYMDc_1_QUtBTUFJ_4fb6a3237223
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-505/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", MANCHESTER CITY vs BORUSSIA DORTMUND
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 507
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-507/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 508
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-508/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 510
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-510/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 511
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-511/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 515
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-515/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 516
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-516/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 518
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-518/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 521
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-521/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 522
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-522/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 524
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-524/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 525
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-525/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 526
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-526/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 538
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-538/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", LINEAR 540
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-540/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png" group-title="MANDRAKODI STREAM", SuperTennis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
