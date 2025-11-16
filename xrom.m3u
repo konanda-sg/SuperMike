@@ -1,6 +1,6 @@
 #EXTM3U
-# XROM Streams + DAZN - File Combinato
-# Generated: 2025-11-16 12:40:23
+# XROM Streams + DAZN - File Combinato con tvg-id mappati
+# Generated: 2025-11-16 15:24:00
 # EPG Auto-Updated: 2025-11-15 22:42:09
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 
@@ -223,7 +223,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763341223_f~0_g~1
 
 # SERIE A 🇮🇹
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/7e/78/4b/7e784b0cacc3ed5732b937ad8c466a77.jpg" group-title="Serie A 🇮🇹", Dazn 1
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-logo="https://i.pinimg.com/736x/7e/78/4b/7e784b0cacc3ed5732b937ad8c466a77.jpg" group-title="Serie A 🇮🇹", Dazn 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6164a0abaa7c53c6875fa1e7fe0bb463":"271510d3e1259571dcc568a232e397eb"}
