@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="201" tvg-id="Sky.Sport.Uno.it" group-title="EVENTI" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_23_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT", SKY SPORT UNO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11156bcfc700ed2d5430b4e31cbfb5b4:ecaa01afacf52dac8a83d146aab37fba
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1763755392_s~c9422c0a-e9b7-440d-b9a3-edc6ea6d4aa0_u~207a5c3dec51a315bfeb07b8ae2a5320fae95fc289763bb8fecf240acd2497b4_l~57_x~173d97e5549626bc0fe75dec04ee12a80952d855e9b462610cc1f3b1e1e1415e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd?
