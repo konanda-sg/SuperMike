@@ -1,13 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-22 19:00:18
-# Canali totali: 16
-
-#EXTINF:-1 tvg-id="DAZN4.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 FIORENTINA vs JUVENTUS [DAZN - KODI 21.1] (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000
-https://swisslau1-3-dash-live.zahs.tv/HD_dazn_event_2_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIE3DCRBTHEZDIRJQHFCUMLJWGBCEKMJWGJATKNBZIEZTKRJQEZSHE3J5MV4HA2LSMF2GS33OHIYTONRUGQZTINJWGUTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL44DCZDGMYYTAMTGMNRGGN3GMUYGMNLEG4YTKMJRGYYDCYLEME3GEJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA|0000
+# Generata il: 2025-11-22 20:28:01
+# Canali totali: 15
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
