@@ -1,7 +1,13 @@
 #EXTM3U
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-23 14:10:05
-# Canali totali: 15
+# Generata il: 2025-11-23 14:25:10
+# Canali totali: 16
+
+#EXTINF:-1 tvg-id="15.00.cremonese.vs.roma..ita...mpd.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 CREMONESE vs ROMA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
 
 #EXTINF:-1 tvg-id="supertennis..ita...m3u8.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
