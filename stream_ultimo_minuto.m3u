@@ -1,7 +1,7 @@
 #EXTM3U
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-23 14:25:10
-# Canali totali: 16
+# Generata il: 2025-11-23 14:40:16
+# Canali totali: 20
 
 #EXTINF:-1 tvg-id="15.00.cremonese.vs.roma..ita...mpd.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 CREMONESE vs ROMA (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -47,6 +47,18 @@ acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 
 #EXTINF:-1 tvg-id="ziggo.sport.2..nl...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ZIGGO SPORT 2 (NL - ACE)
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+
+#EXTINF:-1 tvg-id="15.00.cremonese.vs.roma..eng...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 CREMONESE vs ROMA (ENG - ACE)
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-id="15.00.cremonese.vs.roma..nl...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 CREMONESE vs ROMA (NL - ACE)
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+
+#EXTINF:-1 tvg-id="15.00.cremonese.vs.roma..pol...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 CREMONESE vs ROMA (POL - ACE)
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1 tvg-id="15.00.cremonese.vs.roma..ru...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 CREMONESE vs ROMA (RU - ACE)
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 
 #EXTINF:-1 tvg-id="supertennis..ita...ace.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - ACE)
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
