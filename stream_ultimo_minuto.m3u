@@ -1,7 +1,13 @@
 #EXTM3U
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-23 20:16:55
-# Canali totali: 18
+# Generata il: 2025-11-23 20:22:01
+# Canali totali: 20
+
+#EXTINF:-1 tvg-id="20.45.inter.vs.milan..opz..1...ita...mpd.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 INTER vs MILAN [OPZ. 1] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://swisslau1-2-dash-live.zahs.tv/HD_spalk_event_1_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIFBDQOJRIUZEMRSDGVBEGLJXHA3DOMBSGI3EENJUG43DGQKBEZSHE3J5MV4HA2LSMF2GS33OHIYTONRUGUZDSOJUGATGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRRL4YWINRYGNQWKYTGG44GIYTFGI4TGNJRHE3DSN3CGRSGMMRXMFRTOJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA|0000
 
 #EXTINF:-1 tvg-id="supertennis..ita...m3u8.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
@@ -42,14 +48,17 @@ acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="ziggo.sport.2..nl...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ZIGGO SPORT 2 (NL - ACE)
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 
-#EXTINF:-1 tvg-id="18.00.lazio.vs.lecce..nl...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 LAZIO vs LECCE (NL - ACE)
-acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-id="20.45.inter.vs.milan..de...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 INTER vs MILAN (DE - ACE)
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1 tvg-id="18.00.lazio.vs.lecce..pol...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 LAZIO vs LECCE (POL - ACE)
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-id="20.45.inter.vs.milan..eng...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 INTER vs MILAN (ENG - ACE)
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-id="18.00.lazio.vs.lecce..ru...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 LAZIO vs LECCE (RU - ACE)
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-id="20.45.inter.vs.milan..nl...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 INTER vs MILAN (NL - ACE)
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+
+#EXTINF:-1 tvg-id="20.45.inter.vs.milan..4k...pol...ace.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 INTER vs MILAN [4K] (POL - ACE)
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 
 #EXTINF:-1 tvg-id="supertennis..ita...ace.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - ACE)
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
