@@ -1,6 +1,6 @@
 #EXTM3U
 # XROM Streams + DAZN - File Combinato con tvg-id mappati
-# Generated: 2025-11-23 06:46:40
+# Generated: 2025-11-23 23:27:16
 # EPG Auto-Updated: 2025-11-23 06:31:27
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 
@@ -98,7 +98,8 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935813_f~0_g~1
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXTINF:-1 tvg-chno="211" tvg-id="Sky.Sport.Mix.it" group-title="SPORT" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_579_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",🎨 SKY SPORT MIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935823_f~0_g~1_s~95eb3ec2-82fa-4f49-acb5-96be37a136ca_u~1aeba26245d08d2861a71a1f13460bdda94a1898ba697552f5f8b13218ba57b11f7d8d68fe44fff55fd06a53a4dc9b31_k~A_l~57_x~618b893c59b7aa2314e445cbbbcd5515/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmix)/master_2hr-aac.mpd
+#KODIPROP:inputstream.adaptive.license_key=111533957749e0dea03e9846da2c6e7c:e256431936e849356857b6192ceb0197
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763982616_f~0_g~1_s~47e59c1e-a990-4300-b290-c4621b0cb7c4_u~1aeba26245d08d2861a71a1f13460bdda94a1898ba697552f5f8b13218ba57b11f7d8d68fe44fff55fd06a53a4dc9b31_k~A_l~57_x~4279ea0a47be0259210466260a5fc47f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmix)/master_2hr-aac.mpd
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXTINF:-1 tvg-chno="210" tvg-id="Sky.Sport.Legend.it" group-title="SPORT" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_578_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",🐐 SKY SPORT LEGEND
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -108,7 +109,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935822_f~0_g~1
 #EXTINF:-1 tvg-chno="206" tvg-id="Sky.Sport.Golf.it" group-title="SPORT" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_768_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",⛳ SKY SPORT GOLF
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115a2f6f9f40516c0323cda8af67c70:0e27aa07a4ab4f798a6ff75f62f1410a
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935822_f~0_g~1_s~4ceb2447-024b-4b84-ad2a-f9a61139c41a_u~1aeba26245d08d2861a71a1f13460bdda94a1898ba697552f5f8b13218ba57b11f7d8d68fe44fff55fd06a53a4dc9b31_k~A_l~60_x~37af6ae87c863bcc26248751d6b6168a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportlegend)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763982629_f~0_g~1_s~3a4d6dd1-2164-4cfb-adf1-cdb7aa9525ba_u~1aeba26245d08d2861a71a1f13460bdda94a1898ba697552f5f8b13218ba57b11f7d8d68fe44fff55fd06a53a4dc9b31_k~A_l~58_x~4d3d50813787d7594cad70b686c77716/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportgolf)/master_2hr-aac.mpd
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXTINF:-1 tvg-chno="202" tvg-id="Sky.Sport.Calcio.it" group-title="SPORT" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_209_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",⚽️ SKY SPORT CALCIO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -233,13 +234,4 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935843_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11158d61157893c665c5ec942528d020:2d4b7343dd929afbbd61ef0aa37366d9
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935837_f~0_g~1_s~6b0948be-7715-4a6f-a79f-672ef524223e_u~1aeba26245d08d2861a71a1f13460bdda94a1898ba697552f5f8b13218ba57b11f7d8d68fe44fff55fd06a53a4dc9b31_k~A_l~53_x~c49aaf0a5bf4c428e85090713f3e5700/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd
-
-
-# SERIE A 🇮🇹
-
-#EXTINF:-1 tvg-id="DAZN1.it" tvg-logo="https://i.pinimg.com/736x/7e/78/4b/7e784b0cacc3ed5732b937ad8c466a77.jpg" group-title="Serie A 🇮🇹", Dazn 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6164a0abaa7c53c6875fa1e7fe0bb463":"271510d3e1259571dcc568a232e397eb"}
-https://mpds.nws0.xyz:2083/Dm.mpd?assetId=4hqcjx5zv91f1bdx71io4bnrl.mpd
 
