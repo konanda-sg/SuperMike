@@ -1,57 +1,8 @@
 #EXTM3U
 # XROM Streams + DAZN - File Combinato con tvg-id mappati
-# Generated: 2025-11-24 03:49:10
+# Generated: 2025-11-24 03:59:34
 # EPG Auto-Updated: 2025-11-23 06:31:27
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
-
-# SKY CINEMA
-
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="305" tvg-id="Sky.Cinema.Action.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_206_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA ACTION
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11150443883da4df27e25110d10fca31:83b6390471a083e00f8f3aff2a271be9
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025816_f~0_g~1_s~3be01dba-3788-41e8-9894-09a3356f534c_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~61_x~68639df98e0981629d83405f899ee5c6/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="301" tvg-id="Sky.Cinema.Uno.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_202_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA UNO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025808_f~0_g~1_s~5d33557c-167b-46d7-899e-35909b88eb2a_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~58_x~9c6a41ab9fdae14c5c2e46a4888ea671/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="302" tvg-id="Sky.Cinema.Due.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_564_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA DUE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11152c4ea1a3bffdd277ce333e54631a:17f0c028800dbcb294b9aebbae1f7e0c
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025817_f~0_g~1_s~9ea65b13-56f6-4cea-b4d5-d24714375a3b_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~58_x~867ddcf8acd1b139141e8af37f6e2f18/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadue)/master_2hr-aac.mpd
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="303" tvg-id="Sky.Cinema.Collection.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_204_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA COLLECTION
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11155d8a1fe0b211137c206354e16d2a:7f07d0ef693893a84162d51c1c7259f3
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025811_f~0_g~1_s~54806d29-3abb-4390-b36b-c2890b0f59cb_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~65_x~5b726788a7b8fd03c54939517df7fde9/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="304" tvg-id="Sky.Cinema.Family.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_255_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA FAMILY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115074065832f74af7e279e1203adce:20ece4131fbec82ac7ff056838512143
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025819_f~0_g~1_s~957eded0-063a-44d9-b87a-dd78958db28b_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~61_x~92a9120ce416ae85c95f078c726b0884/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="306" tvg-id="Sky.Cinema.Suspense.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_47_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA SUSPENSE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115d04562a1c328a84b2dab41244cba:5cf8c65d4177349308d7043384880659
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025823_f~0_g~1_s~a76cf517-fd6d-46a9-9ba7-ad2ff27185f3_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~63_x~8bd05eafa1e52ff31856b75f3e81f73e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="307" tvg-id="Sky.Cinema.Romance.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_231_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA ROMANCE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115dbeea57d2fadedc278956bcbfb02:3eee23f97ae49a81c03356599a614fca
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025823_f~0_g~1_s~a8c59e05-97ce-4269-ab6b-a9b69d0c5710_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~62_x~6f16d7ad8a5a42d0a372a9fb206100bf/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="308" tvg-id="Sky.Cinema.Drama.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_769_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA DRAMA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11155ad807b90b9570fb8cce067f6166:74c4430ed8142190e52d4b303286696f
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025821_f~0_g~1_s~4fb06c6f-c026-461f-8c6d-952251f3c3ec_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~60_x~18142141b556f2dc365892cffd28dc5a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="309" tvg-id="Sky.Cinema.Comedy.it" group-title="CINEMA" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_30_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA COMEDY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115676eca79233f2919b53f1a1709b8:72298a31b1b015b52adc03ab222494c2
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025812_f~0_g~1_s~09ba9b26-461f-4233-886b-0faa242c420d_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~61_x~b23adfbfc052432bd686aef1e4b2d72f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
-
 
 # SKY SPORT
 
