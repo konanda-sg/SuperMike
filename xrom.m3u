@@ -1,7 +1,7 @@
 #EXTM3U
 # XROM Streams + DAZN - File Combinato con tvg-id mappati
-# Generated: 2025-11-24 05:33:23
-# EPG Auto-Updated: 2025-11-23 06:31:27
+# Generated: 2025-11-24 15:33:18
+# EPG Auto-Updated: 2025-11-24 15:33:13
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 
 # SKY CINEMA
@@ -244,4 +244,13 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025828_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11158d61157893c665c5ec942528d020:2d4b7343dd929afbbd61ef0aa37366d9
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764025825_f~0_g~1_s~c00b8d15-acd0-4820-82de-27d7f2c24456_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~A_l~53_x~e9b29b300527cb87d8264472584a683c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd
+
+
+# SERIE A 🇮🇹
+
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-logo="https://i.pinimg.com/736x/7e/78/4b/7e784b0cacc3ed5732b937ad8c466a77.jpg" group-title="Serie A 🇮🇹", Dazn 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6164a0abaa7c53c6875fa1e7fe0bb463":"271510d3e1259571dcc568a232e397eb"}
+https://mpds.nws0.xyz:2083/Dm.mpd?assetId=4hqcjx5zv91f1bdx71io4bnrl.mpd
 
