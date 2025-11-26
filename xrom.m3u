@@ -1,6 +1,6 @@
 #EXTM3U
 # XROM Streams + DAZN - File Combinato con tvg-id mappati
-# Generated: 2025-11-26 19:49:52
+# Generated: 2025-11-26 19:54:58
 # EPG Auto-Updated: 2025-11-26 19:24:15
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 
@@ -58,13 +58,13 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764201421_f~0_g~1
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXTINF:-1 tvg-chno="1" tvg-id="Primevideo.com" group-title="SPORT" tvg-logo="https://i.imgur.com/VHEF5uo.png",CL - LIVE MATCH: Atletico vs Inter
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1dccbfd6f5618335b52099f55f035f92:674e443e50558f7e705f1bd702987ea3
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gk4r2psth6/out/v1/0df6f9a74c0f4563a12494c62b7071a5/cenc.mpd
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXTINF:-1 tvg-chno="2" tvg-id="Primevideo.com" group-title="SPORT" tvg-logo="https://i.imgur.com/VHEF5uo.png",CL - PRIME VISION: Atletico vs Inter
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=87e3a98d193508a5185c1d0ca62ef468:68e46e6422fc47ca6ea45ab4c87dab62
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1ushkbqbhb/out/v1/0f036e08c73145d3b6f77c936be6a29a/cenc.mpd
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXTINF:-1 tvg-chno="200" tvg-id="Sky.Sport.24.it" group-title="SPORT" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_35_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",#️⃣ SKY SPORT 24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
