@@ -1,55 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-26 23:00:04
-# Canali totali: 23
-
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 DIRETTA GOL (DE - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000
-https://swisslau1-3-dash-live.zahs.tv/HD_blue_sport_8_live_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIJATIRBZGJDDEOCGHEZTQLJXIMZUIMKBHBDDOOJYIY2DSM2GEZSHE3J5MV4HA2LSMF2GS33OHIYTONRUG44DSNZTGETGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL4ZWEZBTGJRDEY3GMRRDKM3DMRRTENBVG5SDSODDGVQWEYZWMQ3TMJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA|0000
-
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 DIRETTA GOL (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11154006d6786bbbd283d78e99b06fec:5b1120e70e6afa35711eefcf3674c250
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764201440_f~0_g~1_s~bec33fac-c74a-481b-bb72-4c6d449c565f_u~15b6bcdbe70974023b025da2c86a2f4ed268f61e271cba8420fbe70061a6a88d_k~A_l~57_x~5889f230b3890c0cedbd7befee39e7e0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd
-
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 DIRETTA GOL (NL - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
-https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538
-
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 21:00 ATLETICO M. vs INTER [BLUE SPORT] (ITA/FRA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31373634313135325464336637633433:f6de4d49d9775be5fff04a8b8117cadc
-https://tvhosa-pez0404.sctv.ch/dash/LLHPKKEAMJDFHCJG.mpd/Manifest
-
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 21:00 ATLETICO M. vs INTER [PRIME] (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3762bc90acca0c4315a593c89596f00:07dc584ae7369bb0922b29b0a9c48793
-https://ABCNNGCAAAAAAAAMMUIOWB7EV7YFL.OTTB.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f23odcmyjy/out/v1/e07e56174e8f4a409656db31f165b985/cenc.mpd
-
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 21:00 ATLETICO M. vs INTER [RSI] (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd|0000
-
-#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 21:00 EINTRACHT FRANKFURT vs ATALANTA [SK1] (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11156bcfc700ed2d5430b4e31cbfb5b4:ecaa01afacf52dac8a83d146aab37fba
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1764201405_s~fa9b96cc-8393-4cb5-8e39-e1cdbf275ccd_u~15b6bcdbe70974023b025da2c86a2f4ed268f61e271cba8420fbe70061a6a88d_l~57_x~16525e0b5a21cf69145b751853f3c84c7b48b995aa7eaf5ff9b46e4cd59a2835/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
-
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 LINEAR 581
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+# Generata il: 2025-11-27 07:39:29
+# Canali totali: 15
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
