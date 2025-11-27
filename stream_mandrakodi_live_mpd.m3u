@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-26 10:25:52
+# Generata il: 2025-11-27 07:39:28
 # Canali totali: 54
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" group-title="SKY CINEMA 🇮🇹" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_202_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY CINEMA UNO
@@ -181,7 +181,7 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1764201417_s~a6495
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111552e097bbdf0970145db4d77eeed2:a6dd114e3a89765d721fda8b42dcec43
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764151815_f~0_g~1_s~d0dffe5c-6d6f-48fa-8c34-e56e1d79cb6b_u~452f20e53389e0a8d5d5c0e4c7e3c93beb61f9353ff5298abeab138ab321368100304604023bf09f672f8f20fee01f99_k~B_l~60_x~630c24e6fdd5943a963847703fdb223e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
+https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764248521_f~0_g~1_s~aaf07b44-9cbd-4299-addb-5dfc915bc5a0_u~207a5c3dec51a315bfeb07b8ae2a5320fae95fc289763bb8fecf240acd2497b4_k~A_l~60_x~f8e086f5d7b1076370f489ef5c6d8274/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" group-title="SKY SPORT 🇮🇹" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_559_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",📺 SKY SPORT TENNIS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
