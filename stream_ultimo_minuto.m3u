@@ -1,50 +1,17 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-29 15:44:18
-# Canali totali: 15
+# Generata il: 2025-11-29 19:01:19
+# Canali totali: 2
 
-#EXTINF:-1 tvg-id="supertennis..ita...m3u8.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 JUVENTUS vs CAGLIARI (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dca-tm-livedazn.dazn.ticdn.it/1leazgegxxh721rhfup00r6gcq/web/stream.mpd?channel=1384&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="tennis.channel..uk...m3u8.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 Tennis Channel (UK - M3U8)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischde-samsungat/playlist.m3u8
-
-#EXTINF:-1 tvg-id="eleven.sport.1..pol...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ELEVEN SPORT 1 (POL - ACE)
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-
-#EXTINF:-1 tvg-id="eleven.sport.1.4k..pol...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ELEVEN SPORT 1 4K (POL - ACE)
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-
-#EXTINF:-1 tvg-id="eleven.sport.2..pol...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ELEVEN SPORT 2 (POL - ACE)
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-
-#EXTINF:-1 tvg-id="match..futbol.1..ru...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 MATCH! FUTBOL 1 (RU - ACE)
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-
-#EXTINF:-1 tvg-id="match..futbol.2..ru...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 MATCH! FUTBOL 2 (RU - ACE)
-acestream://d75a36e61079a548a2f73cdd4908aefd229e1ba5
-
-#EXTINF:-1 tvg-id="match..futbol.3..ru...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 MATCH! FUTBOL 3 (RU - ACE)
-acestream://bf14806e09f6b8d6394ab9f8f11b4d75052c83e7
-
-#EXTINF:-1 tvg-id="sport.tv.3..por...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SPORT TV 3 (POR - ACE)
-acestream://02d91a509259b43e89c54f42ea031f2467993383
-
-#EXTINF:-1 tvg-id="sport.tv.4..por...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SPORT TV 4 (POR - ACE)
-acestream://f8090fe8319c09200e9113521ef24bec9e17fd68
-
-#EXTINF:-1 tvg-id="tnt.sport.1..eng...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 TNT SPORT 1 (ENG - ACE)
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-#EXTINF:-1 tvg-id="ziggo.sport..nl...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ZIGGO SPORT (NL - ACE)
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-
-#EXTINF:-1 tvg-id="ziggo.sport.2..nl...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ZIGGO SPORT 2 (NL - ACE)
-acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-
-#EXTINF:-1 tvg-id="supertennis..ita...ace.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - ACE)
-acestream://b58dbf92765976b308695f62dea94b00b40730ee
-
-#EXTINF:-1 tvg-id="tennis.channel..uk...ace.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 Tennis Channel (UK - ACE)
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 JUVENTUS vs CAGLIARI (NL/ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EOhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8%7E1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013140%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579
 
