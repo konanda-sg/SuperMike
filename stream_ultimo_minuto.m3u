@@ -1,18 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-30 19:38:41
-# Canali totali: 7
+# Generata il: 2025-11-30 19:42:18
+# Canali totali: 8
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [RSI] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd|0000
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [SKY CH] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000
 https://swisslau1-3-dash-pvr.zahs.tv/HD_sky_it_event_1_ch/1764517200000/1764538200000/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXINCDIQKCHAYEENBQGA2UILJTHE4TMQRTG43TINBXHA3TKQSDEZSHE3J5MV4HA2LSMF2GS33OHIYTONRVGEZDGNZYG4TGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TEMBQGAYCM3LBPBZGC5DFHUZDAMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLFNYTHG2LHHU2TAXZSHEYTEZTGMM2TENTCGJRDIMZRMM2TCYTBMQ2DCZDDHAYWGNTEMQTHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORRHE3TCMJWGATHMPJQ|0000
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [SKY] (ITA - MPD)
@@ -26,6 +22,12 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764547211_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111572ed048652d5f9c2d92edd99d41b:4afeae8224fb62348a88b9cd3fbbdaa8
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764547211_f~0_g~1_s~9ed0f5de-c5ae-4ca1-9b2f-b4106357d163_u~7297c7c62145ac71f4d1e0d754e6ae853136a7b92bac67a1e7be9a68c909a36a2df1cb2668a5281670726dae42afc564_k~A_l~60_x~b6e7c3a70ae898944d1fc1bf288d7951/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 ATALANTA vs FIORENTINA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcb-tm-livedazn.dazn.ticdn.it/6nw66ymk1enf1wu2hg3xp885p/web/stream.mpd?outlet=dazn-italy&plang=it&st%3D1764520074~exp%3D1764606474~acl%3D/%2A~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D78cd72c13b9488629d441d567cd45934b537f242e141ffb01e38dc186db07663%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D0~hmac%3D4ccc7f1e7a4b4a77f2576d57de1f36b6f7d8aeb2e3620d19892171bd24ebdfe4
 
 #EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 ATALANTA vs FIORENTINA (NL/ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
