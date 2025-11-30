@@ -1,7 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-30 13:03:50
-# Canali totali: 16
+# Generata il: 2025-11-30 13:08:53
+# Canali totali: 18
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [RSI] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd|0000
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [SKY] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11158bf9e7959812de2541cc9c443eec:901f0e382be93ec25643362f6c100072
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764547211_f~0_g~1_s~cc381517-b81e-4311-8d84-c9d8ef5232e2_u~7297c7c62145ac71f4d1e0d754e6ae853136a7b92bac67a1e7be9a68c909a36a2df1cb2668a5281670726dae42afc564_k~A_l~56_x~83484ad605539865b261e1c474f50073/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:30 LECCE vs TORINO (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
