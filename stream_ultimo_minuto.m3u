@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-30 16:10:51
-# Canali totali: 24
+# Generata il: 2025-11-30 16:15:54
+# Canali totali: 25
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [RSI] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -24,6 +24,12 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN4.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 PISA VS INTER [DAZN] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcb-tm-livedazn.dazn.ticdn.it/16u70ds6w4n4w1abthh49fw4c9/web/stream.mpd?outlet=dazn-italy&plang=it&st%3D1764514682~exp%3D1764601082~acl%3D/%2A~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D4cdeb8948dee19ab2b0a21d5f5606d2196b633e4b901f37e350df8eb6d64b344%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D0~hmac%3D3c10efdfd3d1deb520b3938d204be8e21422cda73c5b20f17b709368f3598b79
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 PISA vs INTER (NL/ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
