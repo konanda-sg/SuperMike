@@ -1,11 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-30 17:06:27
-# Canali totali: 22
+# Generata il: 2025-11-30 17:11:30
+# Canali totali: 23
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [RSI] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd|0000
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [SKY CH] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://swisslau1-3-dash-pvr.zahs.tv/HD_sky_it_event_1_ch/1764517200000/1764538200000/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXINCDIQKCHAYEENBQGA2UILJTHE4TMQRTG43TINBXHA3TKQSDEZSHE3J5MV4HA2LSMF2GS33OHIYTONRVGEZDGNZYG4TGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TEMBQGAYCM3LBPBZGC5DFHUZDAMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLFNYTHG2LHHU2TAXZSHEYTEZTGMM2TENTCGJRDIMZRMM2TCYTBMQ2DCZDDHAYWGNTEMQTHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORRHE3TCMJWGATHMPJQ|0000
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 GP QATAR [SKY] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
