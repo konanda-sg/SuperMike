@@ -1,6 +1,6 @@
 #EXTM3U
-# XROM Streams (AES Decrypted) + DAZN - File Combinato
-# Generated: 2025-12-02 12:41:44
+# XROM Streams (AES Decrypted)
+# Generated: 2025-12-02 12:55:28
 # EPG Auto-Updated: 2025-12-02 06:59:46
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 
@@ -258,12 +258,3 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764763231_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111502ab6d88754727d58f0952977a83:536d42da4788324e7c7aaf72ceb061c2
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764763230_f~0_g~1_s~aa3fede7-a3ea-4d85-8ab1-2fc06b522300_u~2c099aa7beddadf5b3ab94761e13f191209aadb620338101b0958993ab628429105efc7f34e527e855ce0185b635117e_k~A_l~57_x~47eee0579563b23ea94671281aac13fe/nowitlin1/Content/CMAF_CTR_S1/Live/channel(nickelodeon)/master_2hr-aac.mpd
-
-
-# SERIE A 🇮🇹
-
-#EXTINF:-1 tvg-id="DAZN1.it" tvg-logo="https://i.pinimg.com/736x/7e/78/4b/7e784b0cacc3ed5732b937ad8c466a77.jpg" group-title="Serie A 🇮🇹", Dazn 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6164a0abaa7c53c6875fa1e7fe0bb463":"271510d3e1259571dcc568a232e397eb"}
-https://mpds.nws0.xyz:2083/Dm.mpd?assetId=4hqcjx5zv91f1bdx71io4bnrl.mpd
