@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-12-06 17:19:20
+# Generata il: 2025-12-06 17:24:23
 # Canali totali: 18
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 SASSUOLO vs FIORENTINA (ITA - MPD)
@@ -17,7 +17,7 @@ https://dcb-tm-livedazn.dazn.ticdn.it/1i27e556eu7l51f637yxyuy8qu/web/stream.mpd?
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dct-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web&eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIzMDcyMiIsIjE5ODQ3MSIsIjMyNjkiLCIzMTAzNCIsIjE2Mjc2IiwiMTI4NzQiLCIxMzMzNSJdLCJpbnRzaWciOiJxd2RjdW9aNzVTT2huVExtcHVDUFY4WU0yZjBMOUhlbndwNmNQRVBkVWFRIiwiaWF0IjoxNzY1MDM3NTM0LCJleHAiOjE3NjUxMjM5MzR9.p7Gc_xB4KSfXfNKNg6KsaxrnfgQm4nvR1o8Z7QEC308
+https://dct-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web&eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMjY3IiwiMzA3MjIiLCIzMjY5IiwiMzEwMzQiLCIxNjI3NiIsIjEyODc0IiwiMTMzMzUiXSwiaW50c2lnIjoiemJPMmtmbThPTWJ0bmpINDRTd05VSmtBWkdmcnRGNlU1UWJKUHVCclFfRSIsImlhdCI6MTc2NTAzODA4MCwiZXhwIjoxNzY1MTI0NDgwfQ.Thwg-e-lK_r1sJPxZvSjmEgWvLBNJSMauYVDweOuUa8
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
