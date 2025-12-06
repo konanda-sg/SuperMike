@@ -1,11 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-12-06 17:10:09
-# Canali totali: 16
+# Generata il: 2025-12-06 17:15:12
+# Canali totali: 17
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 SASSUOLO vs FIORENTINA (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://swisslau1-3-dash-live.zahs.tv/HD_dazn_event_5_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIVATINZXGJCUMMCBGZDDSLJXGZATKMSEIJATKRJZGA2TAMJREZSHE3J5MV4HA2LSMF2GS33OHIYTONRVGYZTGNZTGUTGS3TJORUWC3DSMF2GKPJYGAYDAJTNMF4HEYLUMU6TQMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLJOQTHG2LHHUZDAX3FGAYDKYZQMZSDCY3BMQ4TIZRSGUYWCZJVHE2TQMRQMMYTEYTFGMTHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORSGA3TKMBYGATHMPJQ|0000
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 INTER vs COMO (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcb-tm-livedazn.dazn.ticdn.it/1i27e556eu7l51f637yxyuy8qu/web/stream.mpd?channel=1384&outlet=dazn-italy&plang=it&st%3D1765037069~exp%3D1765123469~acl%3D/%2A~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D96f15a147bbb3d43f48728e02aa4d936c4c8f8e1c1934807096850e9e2ec9c86%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D0~hmac%3D43982e504f2e2622bfd948ac89026e24654c048b4c193b2a64d041e77544ff6c
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
