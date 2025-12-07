@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist PPV Events - Tutti gli eventi LIVE
-# Generata il: 2025-12-07 07:46:09
-# Canali totali: 77
-# Sport selezionato: Tutti
+# Generata il: 2025-12-07 07:47:32
+# Canali totali: 40
+# Sport selezionato: Football
 # Gruppi esclusi: Channels, 24/7 Streams
 # Gruppo: EVENTI LIVE 🏆
 # Note: Nomi puliti da [NOT LIVE] e [LIVE]
@@ -10,80 +10,14 @@
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/6207097a5fed441ce86325220f11d371-thumbnail.jpg" tvg-id="Athletic Club vs. Atlético de Madrid" tvg-name="Athletic Club vs. Atlético de Madrid [2025-12-06 20:00]",⚽ Athletic Club vs. Atlético de Madrid [2025-12-06 20:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_ath%2Findex.m3u8
 
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/ffe2b26662f5211b2baacf6c952c2d30-thumbnail.jpg" tvg-id="Columbus Blue Jackets vs. Florida Panthers" tvg-name="Columbus Blue Jackets vs. Florida Panthers [2025-12-06 20:30]",🎬 Columbus Blue Jackets vs. Florida Panthers [2025-12-06 20:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ffloridapanthers%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/bc3ebbc864efdb568abcd8e9ae030c70-thumbnail.jpg" tvg-id="Columbus Blue Jackets vs. Florida Panthers" tvg-name="Columbus Blue Jackets vs. Florida Panthers [2025-12-06 20:30]",🎬 Columbus Blue Jackets vs. Florida Panthers [2025-12-06 20:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ffloridapanthers%2Findex.m3u8
-
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/c25b4d7302c5c1c448a26dc0a4a8f2cf-thumbnail.jpg" tvg-id="Georgia Bulldogs vs. Alabama Crimson Tide" tvg-name="Georgia Bulldogs vs. Alabama Crimson Tide [2025-12-06 21:00]",⚽ Georgia Bulldogs vs. Alabama Crimson Tide [2025-12-06 21:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FABC%2Findex.m3u8
 
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/b229b3daa6c761b9d285a80987ac8a24-thumbnail.jpg" tvg-id="Inter Miami vs. Vancouver Whitecaps" tvg-name="Inter Miami vs. Vancouver Whitecaps [2025-12-06 19:30]",⚽ Inter Miami vs. Vancouver Whitecaps [2025-12-06 19:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FFOX%2Findex.m3u8
 
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/125b36671398809d60a6f24ce6b180d6-thumbnail.jpg" tvg-id="New Orleans Pelicans vs. Brooklyn Nets" tvg-name="New Orleans Pelicans vs. Brooklyn Nets [2025-12-06 22:00]",🏀 New Orleans Pelicans vs. Brooklyn Nets [2025-12-06 22:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbrooklynnets%2Findex.m3u8
-
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/57910f21e35c5297c74118d13f835c74-thumbnail.jpg" tvg-id="PSG vs. Rennes" tvg-name="PSG vs. Rennes [2025-12-06 20:05]",⚽ PSG vs. Rennes [2025-12-06 20:05]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fligue1_psg%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/eec214b8ea4c56c5ca2f6ec182a0def1-thumbnail.jpg" tvg-id="Shabaz Masoud vs. Peter McGrail" tvg-name="Shabaz Masoud vs. Peter McGrail [2025-12-06 18:00]",🥊 Shabaz Masoud vs. Peter McGrail [2025-12-06 18:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fboxing%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/7423d101216a621b8ee36cf2df19a0f5-thumbnail.jpg" tvg-id="Isaac Cruz vs. Lamont Roach" tvg-name="Isaac Cruz vs. Lamont Roach [2025-12-06 22:30]",🥊 Isaac Cruz vs. Lamont Roach [2025-12-06 22:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fprimeppv%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/6381c559afa78de552235c103e13a74c-thumbnail.jpg" tvg-id="UFC 323: Dvalishvili vs. Yan 2" tvg-name="UFC 323: Dvalishvili vs. Yan 2 [2025-12-06 23:00]",🥊 UFC 323: Dvalishvili vs. Yan 2 [2025-12-06 23:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/005d2ebbbccf7578958e32370a5508bb-thumbnail.jpg" tvg-id="Atlanta Hawks vs. Washington Wizards" tvg-name="Atlanta Hawks vs. Washington Wizards [2025-12-07 00:00]",🏀 Atlanta Hawks vs. Washington Wizards [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwashingtonwizards%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/1dc9334a18aa0a6464f3fac007aaa36b-thumbnail.jpg" tvg-id="Montreal Canadiens vs. Toronto Maple Leafs" tvg-name="Montreal Canadiens vs. Toronto Maple Leafs [2025-12-07 00:00]",🎬 Montreal Canadiens vs. Toronto Maple Leafs [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ftorontomapleleafs%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/570c9f259a9592e0a0e1f7acb735711d-thumbnail.jpg" tvg-id="Montreal Canadiens vs. Toronto Maple Leafs" tvg-name="Montreal Canadiens vs. Toronto Maple Leafs [2025-12-07 00:00]",🎬 Montreal Canadiens vs. Toronto Maple Leafs [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ftorontomapleleafs%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/aae4d7ee3ee329195c2f32e52bf022e2-thumbnail.jpg" tvg-id="Nashville Predators vs. Carolina Hurricanes" tvg-name="Nashville Predators vs. Carolina Hurricanes [2025-12-07 00:00]",🎬 Nashville Predators vs. Carolina Hurricanes [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcarolinahurricanes%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/6f881eb39589149e3b718cfef3a43cfd-thumbnail.jpg" tvg-id="Nashville Predators vs. Carolina Hurricanes" tvg-name="Nashville Predators vs. Carolina Hurricanes [2025-12-07 00:00]",🎬 Nashville Predators vs. Carolina Hurricanes [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcarolinahurricanes%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/b57694446c77c7c373842d7226e79b7b-thumbnail.jpg" tvg-id="New Jersey Devils vs. Boston Bruins" tvg-name="New Jersey Devils vs. Boston Bruins [2025-12-07 00:00]",🎬 New Jersey Devils vs. Boston Bruins [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbostonbruins%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/50d03042c6a96e7a81dbf2e0335321c9-thumbnail.jpg" tvg-id="New Jersey Devils vs. Boston Bruins" tvg-name="New Jersey Devils vs. Boston Bruins [2025-12-07 00:00]",🎬 New Jersey Devils vs. Boston Bruins [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fbostonbruins%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/2243208da3b834da65b1d3f97fed63b5-thumbnail.jpg" tvg-id="New York Islanders vs. Tampa Bay Lightning" tvg-name="New York Islanders vs. Tampa Bay Lightning [2025-12-07 00:00]",🎬 New York Islanders vs. Tampa Bay Lightning [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ftampabaylightning%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/2a303c6eb2e1ade9170b2f222f6e5eba-thumbnail.jpg" tvg-id="New York Islanders vs. Tampa Bay Lightning" tvg-name="New York Islanders vs. Tampa Bay Lightning [2025-12-07 00:00]",🎬 New York Islanders vs. Tampa Bay Lightning [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ftampabaylightning%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/1889173a9c19e518725a2444384f2908-thumbnail.jpg" tvg-id="St. Louis Blues vs. Ottawa Senators" tvg-name="St. Louis Blues vs. Ottawa Senators [2025-12-07 00:00]",🎬 St. Louis Blues vs. Ottawa Senators [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fottawasenators%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/b61edf7ef95c7d6f73afa0cef58d56b1-thumbnail.jpg" tvg-id="St. Louis Blues vs. Ottawa Senators" tvg-name="St. Louis Blues vs. Ottawa Senators [2025-12-07 00:00]",🎬 St. Louis Blues vs. Ottawa Senators [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fottawasenators%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/2a69def79c68f73d3e9a7ab99f410795-thumbnail.jpg" tvg-id="Utah Mammoth vs. Calgary Flames" tvg-name="Utah Mammoth vs. Calgary Flames [2025-12-07 00:00]",🎬 Utah Mammoth vs. Calgary Flames [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcalgaryflames%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/87c1e14b0c842be0d075270b76747aef-thumbnail.jpg" tvg-id="Utah Mammoth vs. Calgary Flames" tvg-name="Utah Mammoth vs. Calgary Flames [2025-12-07 00:00]",🎬 Utah Mammoth vs. Calgary Flames [2025-12-07 00:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcalgaryflames%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/2bf63d5a991975c4d4e309f55ca2832d-thumbnail.jpg" tvg-id="Golden State Warriors vs. Cleveland Cavaliers" tvg-name="Golden State Warriors vs. Cleveland Cavaliers [2025-12-07 00:30]",🏀 Golden State Warriors vs. Cleveland Cavaliers [2025-12-07 00:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fclevelandcavaliers%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/32a4168781e62b9f3d90caa8c7bc4529-thumbnail.jpg" tvg-id="Milwaukee Bucks vs. Detroit Pistons" tvg-name="Milwaukee Bucks vs. Detroit Pistons [2025-12-07 00:30]",🏀 Milwaukee Bucks vs. Detroit Pistons [2025-12-07 00:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdetroitpistons%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" tvg-id="AEW: Saturday Night Collision" tvg-name="AEW: Saturday Night Collision [2025-12-07 01:00]",🤼 AEW: Saturday Night Collision [2025-12-07 01:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fwrestling%2Findex.m3u8
 
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/3e42dacf46278c11ef4a1e8b9dcb4139-thumbnail.jpg" tvg-id="Duke Blue Devils vs. Virginia Cavaliers" tvg-name="Duke Blue Devils vs. Virginia Cavaliers [2025-12-07 01:00]",⚽ Duke Blue Devils vs. Virginia Cavaliers [2025-12-07 01:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FABC%2Findex.m3u8
@@ -91,47 +25,8 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FABC%2Fin
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/3722bbb358dd4211d0ebfd94cc4791c9-thumbnail.jpg" tvg-id="Indiana Hoosiers vs. Ohio State Buckeyes" tvg-name="Indiana Hoosiers vs. Ohio State Buckeyes [2025-12-07 01:00]",⚽ Indiana Hoosiers vs. Ohio State Buckeyes [2025-12-07 01:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2FFOX%2Findex.m3u8
 
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/770c02b494d06a9a6f758e7f7a72e0fb-thumbnail.jpg" tvg-id="LA Clippers vs. Minnesota Timberwolves" tvg-name="LA Clippers vs. Minnesota Timberwolves [2025-12-07 01:00]",🏀 LA Clippers vs. Minnesota Timberwolves [2025-12-07 01:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fminnesotatimberwolves%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/ecaf6133a2eb6989fd5aa0eccfe197de-thumbnail.jpg" tvg-id="Sacramento Kings vs. Miami Heat" tvg-name="Sacramento Kings vs. Miami Heat [2025-12-07 01:00]",🏀 Sacramento Kings vs. Miami Heat [2025-12-07 01:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fmiamiheat%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/0ca5c91ff23622b4cbd319a9636bf75e-thumbnail.jpg" tvg-id="Houston Rockets vs. Dallas Mavericks" tvg-name="Houston Rockets vs. Dallas Mavericks [2025-12-07 01:30]",🏀 Houston Rockets vs. Dallas Mavericks [2025-12-07 01:30]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fdallasmavericks%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/5ae455391c63065001e82615992fb227-thumbnail.jpg" tvg-id="Chicago Blackhawks vs. Los Angeles Kings" tvg-name="Chicago Blackhawks vs. Los Angeles Kings [2025-12-07 02:00]",🎬 Chicago Blackhawks vs. Los Angeles Kings [2025-12-07 02:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Flosangeleskings%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/76bb90630709e00fdde63a10e80c2a5e-thumbnail.jpg" tvg-id="Chicago Blackhawks vs. Los Angeles Kings" tvg-name="Chicago Blackhawks vs. Los Angeles Kings [2025-12-07 02:00]",🎬 Chicago Blackhawks vs. Los Angeles Kings [2025-12-07 02:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Flosangeleskings%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/a6e87a09c834d036109ae7ab2e24d3ff-thumbnail.jpg" tvg-id="Detroit Red Wings vs. Seattle Kraken" tvg-name="Detroit Red Wings vs. Seattle Kraken [2025-12-07 03:00]",🎬 Detroit Red Wings vs. Seattle Kraken [2025-12-07 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseattlekraken%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/a0d54c4da2716bc5f7013047c9fa0f99-thumbnail.jpg" tvg-id="Detroit Red Wings vs. Seattle Kraken" tvg-name="Detroit Red Wings vs. Seattle Kraken [2025-12-07 03:00]",🎬 Detroit Red Wings vs. Seattle Kraken [2025-12-07 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseattlekraken%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/0680c9c62fb0c73f1e5d510721c57c6a-thumbnail.jpg" tvg-id="Minnesota Wild vs. Vancouver Canucks" tvg-name="Minnesota Wild vs. Vancouver Canucks [2025-12-07 03:00]",🎬 Minnesota Wild vs. Vancouver Canucks [2025-12-07 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fvancouvercanucks%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/cd2ed60bbcfd60b61cf2b5131c5e54ad-thumbnail.jpg" tvg-id="Minnesota Wild vs. Vancouver Canucks" tvg-name="Minnesota Wild vs. Vancouver Canucks [2025-12-07 03:00]",🎬 Minnesota Wild vs. Vancouver Canucks [2025-12-07 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fvancouvercanucks%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/60de5a5517f4d8000c0f352c2983a8ee-thumbnail.jpg" tvg-id="Winnipeg Jets vs. Edmonton Oilers" tvg-name="Winnipeg Jets vs. Edmonton Oilers [2025-12-07 03:00]",🎬 Winnipeg Jets vs. Edmonton Oilers [2025-12-07 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fedmontonoilers%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/5f96067dde300e232690e0f725a88442-thumbnail.jpg" tvg-id="Winnipeg Jets vs. Edmonton Oilers" tvg-name="Winnipeg Jets vs. Edmonton Oilers [2025-12-07 03:00]",🎬 Winnipeg Jets vs. Edmonton Oilers [2025-12-07 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fedmontonoilers%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" tvg-id="Australia vs. England" tvg-name="Australia vs. England [2025-12-07 04:00]",🎬 Australia vs. England [2025-12-07 04:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fcricket%2Findex.m3u8
-
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/d2ceab95f93fb99dee613dd2cc79b72c-thumbnail.jpg" tvg-id="Cremonese vs. Lecce" tvg-name="Cremonese vs. Lecce [2025-12-07 11:30]",⚽ Cremonese vs. Lecce [2025-12-07 11:30]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fseriea_cre%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg" tvg-id="Abu Dhabi Grand Prix - Race" tvg-name="Abu Dhabi Grand Prix - Race [2025-12-07 13:00]",🏎️ Abu Dhabi Grand Prix - Race [2025-12-07 13:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Ff1%2Findex.m3u8
 
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/f9cec717117b53c26bd33b56c573859b-thumbnail.jpg" tvg-id="Elche CF vs. Girona FC" tvg-name="Elche CF vs. Girona FC [2025-12-07 13:00]",⚽ Elche CF vs. Girona FC [2025-12-07 13:00]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fll_elc%2Findex.m3u8
@@ -231,10 +126,4 @@ https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fepl_wol%
 
 #EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/6592fcf8404fe8ce74eac5a2e07b7bcb-thumbnail.jpg" tvg-id="Philadelphia Eagles vs. Los Angeles Chargers" tvg-name="Philadelphia Eagles vs. Los Angeles Chargers [2025-12-09 01:15]",⚽ Philadelphia Eagles vs. Los Angeles Chargers [2025-12-09 01:15]
 https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Flosangeleschargers%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/07e548c632b6de966682703f5478c806-thumbnail.jpg" tvg-id="UFC Fight Night: Royval vs. Kape" tvg-name="UFC Fight Night: Royval vs. Kape [2025-12-14 03:00]",🥊 UFC Fight Night: Royval vs. Kape [2025-12-14 03:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8
-
-#EXTINF:-1 group-title="EVENTI LIVE 🏆" tvg-logo="https://old.ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg" tvg-id="UFC 324: Gaethje vs. Pimblett" tvg-name="UFC 324: Gaethje vs. Pimblett [2026-01-25 02:00]",🥊 UFC 324: Gaethje vs. Pimblett [2026-01-25 02:00]
-https://addon3.gstream.stream/poo/m3u8?u=https%3A%2F%2Fgg.poocloud.in%2Fufc%2Findex.m3u8
 
