@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-12-07 19:23:38
-# Canali totali: 12
+# Generata il: 2025-12-07 19:28:41
+# Canali totali: 14
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 14:00 GP Abu Dhabi [RSI] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -70,4 +70,12 @@ https://swisslau1-3-dash-live.zahs.tv/HD_dazn_event_6_ch/m_drm_widevine.mpd?z32=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111572ed048652d5f9c2d92edd99d41b:4afeae8224fb62348a88b9cd3fbbdaa8
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765155609_f~0_g~1_s~7c5db100-7728-4d4a-87af-816096c98da5_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~77e5a0ab70a5487e6c65218d3fbb974d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 NAPOLI vs JUVENTUS [Opz 1] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://swisslau1-3-dash-live.zahs.tv/HD_dazn_event_1_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIVCTOOBVIE3DAMRXGM3DSLJUIEZEMNJVINCEIQJUGVBDEQJQEZSHE3J5MV4HA2LSMF2GS33OHIYTONRVG4YDONBWGUTGS3TJORUWC3DSMF2GKPJYGAYDAJTNMF4HEYLUMU6TQMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLJOQTHG2LHHUZDAXZSHE2WEZTFHBQTGNJSGM4DGNBTGFQWMZRZMJRGCZRZMUZDOMBVGITHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORRGY3TENJRGUTHMPJQ|0000
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 NAPOLI vs JUVENTUS [Opz 2] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://swisslau1-3-dash-live.zahs.tv/HD_spalk_event_1_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIVCTON2BIYZTIOBWGFBDQLJRII2EGMSCGFBUKRKCIIZEENZGMRZG2PLFPBYGS4TBORUW63R2GE3TMNJXGA3TIMJZEZUW42LUNFQWY4TBORST2OBQGAYCM3LBPBZGC5DFHU4DAMBQEZWWS3TSMF2GKPJRGAYDAJTQOJSWMZLSOJSWIX3MMFXGO5LBM5ST22LUEZZWSZZ5GIYV6ZLCG5TDAZDBMYYDAMBSMVQWGZDFMJRDCNTCHEZGIOLEGAYWCNTCEZZXKYTUNF2GYZLTHVUGSZDEMVXC243ENATHK43FOJPWSZB5ONVXSX3DNA5DUMJWG4ZDKMJVEZ3D2MA|0000
 
