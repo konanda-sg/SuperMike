@@ -1,107 +1,107 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="ThisNot",⏰ 23:00 - Boca Juniors - Racing Club - ⚽ Superliga, Semifinale
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",🟢 ⏰ 23:00 - Boca Juniors - Racing Club - ⚽ Superliga, Semifinale • ThisNot
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="ThisNot",⏰ 23:00 - Boca Juniors - Racing Club - ⚽ Superliga, Semifinale
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",🟢 ⏰ 23:00 - Boca Juniors - Racing Club - ⚽ Superliga, Semifinale • ThisNot
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
 https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="ThisNot",⏰ 15:00 - Pisa - Parma - ⚽ Serie A
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",🟢 ⏰ 15:00 - Pisa - Parma - ⚽ Serie A • ThisNot
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="ThisNot",⏰ 17:30 - Vanoli Cremona - Openjobmetis Varese - 🏀 LBA Serie A
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",🟢 ⏰ 17:30 - Vanoli Cremona - Openjobmetis Varese - 🏀 LBA Serie A • ThisNot
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="ThisNot",⏰ 18:30 - Virtus Bologna - Bertram Tortona - 🏀 LBA Serie A
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",🟢 ⏰ 18:30 - Virtus Bologna - Bertram Tortona - 🏀 LBA Serie A • ThisNot
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/epl.png" group-title="ThisNot",⏰ 21:00 - Wolverhampton - Manchester United - ⚽ Premier League
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",🟢 ⏰ 21:00 - Wolverhampton - Manchester United - ⚽ Premier League • ThisNot
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/laliga.png" group-title="ThisNot",⏰ 21:00 - Osasuna - Levante - ⚽ La Liga
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",🟢 ⏰ 21:00 - Osasuna - Levante - ⚽ La Liga • ThisNot
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="ThisNot",⏰ 21:00 - Gimnasia La Plata - Estudiantes - ⚽ Superliga, Semifinale
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",🟢 ⏰ 21:00 - Gimnasia La Plata - Estudiantes - ⚽ Superliga, Semifinale • ThisNot
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Events",ESPN1_SUR-Eve-001
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",⚽ ESPN1_SUR-Gen-001
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0f85a4e1fc5937a827313597d04f8e27":"cc1d8219be0130da85e4c4ce73a75abb"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Events",PremierSP2-Eve-002
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",⚽ PremierSP2-Gen-002
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1a5df53609ebc9857898c490f4724918":"77f62980d582ec541280796acf8b2d19"}
 https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Events",SportTV2_PT-Eve-003
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",⚽ SportTV2_PT-Gen-003
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0d28edf4f055409bb12d6d0260b26b6b":"bf69f8a33c39c31f5ff06ab52012e27c"}
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 
-#EXTINF:-1 tvg-logo="" group-title="Events",LBATV1-Eve-004
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",⚽ LBATV1-Gen-004
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Events",LBATV2-Eve-006
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",⚽ LBATV2-Gen-006
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Events",SKYPL_DE-Eve-009
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",⚽ SKYPL_DE-Gen-009
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ca4316630f56d6f33e9ff73b7ad211d1":"72c54e5646055f444e99bc1123919e89"}
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Events",IzziLiga-Eve-010
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",⚽ IzziLiga-Gen-010
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Events",SportTV3_PT-Eve-011
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",⚽ SportTV3_PT-Gen-011
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
