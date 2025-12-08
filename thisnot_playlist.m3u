@@ -1,0 +1,225 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="ThisNot",⏰ 15:00 - Pisa - Parma - ⚽ Serie A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://dca-deit-livedazn.daznedge.net/3pgpj1vfq6b7106b7eu5d5yso/web/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="ThisNot",⏰ 15:00 - Pisa - Parma - ⚽ Serie A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="ThisNot",⏰ 17:30 - Vanoli Cremona - Openjobmetis Varese - 🏀 LBA Serie A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="ThisNot",⏰ 18:30 - Virtus Bologna - Bertram Tortona - 🏀 LBA Serie A
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/epl.png" group-title="ThisNot",⏰ 21:00 - Wolverhampton - Manchester United - ⚽ Premier League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/epl.png" group-title="ThisNot",⏰ 21:00 - Wolverhampton - Manchester United - ⚽ Premier League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/laliga.png" group-title="ThisNot",⏰ 21:00 - Osasuna - Levante - ⚽ La Liga
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="ThisNot",⏰ 21:00 - Gimnasia La Plata - Estudiantes - ⚽ Superliga, Semifinale
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/ucl.png" group-title="ThisNot",⏰ 16:30 - Kairat - Olympiakos Piraeus - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/ucl.png" group-title="ThisNot",⏰ 18:45 - Bayern Monaco - Sporting Lisbona - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/ucl.png" group-title="ThisNot",⏰ 21:00 - Goals Show - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/laliga.png" group-title="ThisNot",⏰ 21:00 - Barcelona - Eintracht Frankfurt - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/ucl.png" group-title="ThisNot",⏰ 21:00 - Atalanta - Chelsea - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/ucl.png" group-title="ThisNot",⏰ 21:00 - Tottenham - Slavia Praha - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/ucl.png" group-title="ThisNot",⏰ 21:00 - Union Saint-Gilloise - Olympique Marseille - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/ucl.png" group-title="ThisNot",⏰ 21:00 - Monaco - Galatasaray - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/laliga.png" group-title="ThisNot",⏰ 21:00 - PSV - Atletico Madrid - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",Dazn1-Gen-001
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cfb5e2b73bef4f3c878f25ab86a7451f":"0d6712bf2a84edcc93d001a9613f6fec"}
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend%3A1765287909~geo%3AIT~asn%3A12874_30722_3269~path%3A1_1_aa1e57e4964d607090ef98e1fb4af93e3d026fdbfdcd8678aa39f0c7db1f851b~ua%3A362d7fe3d8b2581bffa359f0eeda7106~id%3A384b198332ce~tk3%3Aa77a43870ff4717750fec4ef8bda0fd3c85cbf75369ffd4e3fe35356bf98d88f&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://dca-deit-livedazn.daznedge.net/3pgpj1vfq6b7106b7eu5d5yso/web/stream.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",SportTV2_PT-Gen-002
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0d28edf4f055409bb12d6d0260b26b6b":"bf69f8a33c39c31f5ff06ab52012e27c"}
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",LBATV1-Gen-003
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",LBATV2-Gen-005
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",ESPN1_SUR-Gen-007
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0f85a4e1fc5937a827313597d04f8e27":"cc1d8219be0130da85e4c4ce73a75abb"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",SKYPL_DE-Gen-008
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ca4316630f56d6f33e9ff73b7ad211d1":"72c54e5646055f444e99bc1123919e89"}
+https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",IzziLiga-Gen-009
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",SportTV3_PT-Gen-010
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",Dazn1_PT-Gen-011
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",SportTV5_PT-Gen-012
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",TNTSP3-Gen-013
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a93c1cbfdccd23233bac13540c693e7f":"2f6ab2e6693eb847eff3c9da8f9d01fc"}
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",Dazn2_PT-Gen-014
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",TNTSP2-Gen-017
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9f51f3dc6313ac8bc668e2d9d1c04dfa":"74bc63e5a193454a91ca494975db33f9"}
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",TNTSP1-Gen-018
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d0f2e5c39e70c18f29bf77768a1ad89a":"d6853c51fcf37a18905f0609972395d7"}
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",ESPN6_SUR-Gen-019
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"859a7ef7e969a0ae9584005a8b642fd6":"a90ca0de14cc1ea2305bb26ce18d2abe"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",ESPN7_SUR-Gen-020
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"49020ffc8b5cc542c469370c40000565":"8ea4292586d4df3ab4ef173453f6c555"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="General",ESPN3_SUR-Gen-021
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eb04e4ec7049c0712e09c57aea9c1cb7":"404636ec78dfaf363333805c9a2c3f66"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
