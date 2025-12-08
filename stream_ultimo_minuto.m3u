@@ -1,62 +1,52 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-12-08 15:26:29
-# Canali totali: 17
+# Generata il: 2025-12-08 15:30:24
+# Canali totali: 7
 
-#EXTINF:-1 tvg-id="17.30.vanoli.cremona.vs.openjobmetis.varese..lbatv1...mpd.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:30 Vanoli Cremona vs Openjobmetis Varese (LBATV1 - MPD)
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:30 Vanoli Cremona vs Openjobmetis Varese (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="18.30.virtus.bologna.vs.bertram.tortona..lbatv2...mpd.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:30 Virtus Bologna vs Bertram Tortona (LBATV2 - MPD)
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:30 Virtus Bologna vs Bertram Tortona (LBATV2 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="supertennis..ita...m3u8.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 PISA vs PARMA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765201590~exp%3D1765287990~acl%3D/%2A~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Db38bb956e7b423ab3e2fc183258e6d63743bd761e3888bbe0592c83c032155bc%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D0~hmac%3Df54e893eec59debc7aa896c8762383664b951702ac0af56594b12b711e1c225c&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-tm-livedazn.dazn.ticdn.it/3pgpj1vfq6b7106b7eu5d5yso/web/stream.mpd?channel=1348&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="tennis.channel..uk...m3u8.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 Tennis Channel (UK - M3U8)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischde-samsungat/playlist.m3u8
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 FROSINONE vs JUVE STABIA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b56d638bbe5b5ad9909bb0f8c544088b:069ae09be7b85e4cc70ad7393f8be7ff
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765201766~exp%3D1765288166~acl%3D/%2A~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D27fb89eed6a4bff62f2cdf40a7ac3416bf78deb43c111130f6cf38be242d1d3d%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D0~hmac%3D718a00f84f7699a602e071264963dd8dcc718770a5c252670887dac359f4d38a&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcb-tm-livedazn.dazn.ticdn.it/4jab69ekwgs21fitot3bp9qzd/web/stream.mpd?channel=3933&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="eleven.sport.1..pol...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ELEVEN SPORT 1 (POL - ACE)
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 MANTOVA vs REGGIANA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47236e4928155ce0a1e017a9729a2ca7:2130c942228b8da92bea6aadcbd1485f
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765201776~exp%3D1765288176~acl%3D/%2A~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D03744282c942f466b238c8d9b1ef974a3cc3d3100ee0cf006b6f2598dbba44a9%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D0~hmac%3D2b1e68e1b26fec75381dbb0d426c7a87e6993cbbcee542dba63b0acb1b00ed71&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcb-tm-livedazn.dazn.ticdn.it/75hptd4l4tzx19l2k6itkpf4e/web/stream.mpd?channel=3930&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="eleven.sport.1.4k..pol...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ELEVEN SPORT 1 4K (POL - ACE)
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 MONZA vs SUDTIROL (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f87507ab1a3590ea000adcce1b18351:4c87d6b89f9f94ef8ecc7ba1ce7d1e65
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765201751~exp%3D1765288151~acl%3D/%2A~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc9927bf9e61552f3bf2655fc3e3e3e74c3ea2b62d7addafd081d83d64ef23b0e%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D0~hmac%3Df6e14545cebfa54c574ee47ed49e32ac43fe3466ac02eebae8c9c1ca48b2e0b9&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-tm-livedazn.dazn.ticdn.it/jqz1252ne9p51nevt4t798iah/web/stream.mpd?channel=3932&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="eleven.sport.2..pol...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ELEVEN SPORT 2 (POL - ACE)
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-
-#EXTINF:-1 tvg-id="match..futbol.1..ru...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 MATCH! FUTBOL 1 (RU - ACE)
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-
-#EXTINF:-1 tvg-id="match..futbol.2..ru...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 MATCH! FUTBOL 2 (RU - ACE)
-acestream://d75a36e61079a548a2f73cdd4908aefd229e1ba5
-
-#EXTINF:-1 tvg-id="match..futbol.3..ru...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 MATCH! FUTBOL 3 (RU - ACE)
-acestream://bf14806e09f6b8d6394ab9f8f11b4d75052c83e7
-
-#EXTINF:-1 tvg-id="sport.tv.3..por...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SPORT TV 3 (POR - ACE)
-acestream://02d91a509259b43e89c54f42ea031f2467993383
-
-#EXTINF:-1 tvg-id="sport.tv.4..por...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SPORT TV 4 (POR - ACE)
-acestream://f8090fe8319c09200e9113521ef24bec9e17fd68
-
-#EXTINF:-1 tvg-id="tnt.sport.1..eng...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 TNT SPORT 1 (ENG - ACE)
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-#EXTINF:-1 tvg-id="ziggo.sport..nl...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ZIGGO SPORT (NL - ACE)
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-
-#EXTINF:-1 tvg-id="ziggo.sport.2..nl...ace.it" group-title="Eventi Live ⚽" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 ZIGGO SPORT 2 (NL - ACE)
-acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-
-#EXTINF:-1 tvg-id="supertennis..ita...ace.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - ACE)
-acestream://b58dbf92765976b308695f62dea94b00b40730ee
-
-#EXTINF:-1 tvg-id="tennis.channel..uk...ace.it" group-title="Tennis 🎾" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 Tennis Channel (UK - ACE)
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 PADOVA vs CESENA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8e882833be358bea34ee0ff3b24555e:8f49267b64aafcc4387c3ab01572ec3d
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765201762~exp%3D1765288162~acl%3D/%2A~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D37054be25e6b169ca71e44619dd189eea4ab441cea1a468cb952cb4d450326fb%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D0~hmac%3D11ca50da16bbfb5f2579851d5355eba8e9f455fa7b4819f424816f58c3f31dd4&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-tm-livedazn.dazn.ticdn.it/inatus58y31v192ofga7u9uu6/web/stream.mpd?channel=3931&outlet=dazn-italy&plang=it
 
