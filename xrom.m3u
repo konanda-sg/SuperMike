@@ -1,257 +1,257 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # XROM Streams (AES Decrypted)
-# Generated: 2025-12-08 06:36:06
-# EPG Auto-Updated: 2025-12-08 06:36:05
+# Generated: 2025-12-08 16:46:43
+# EPG Auto-Updated: 2025-12-08 08:40:08
 
 # SKY CINEMA 🇮🇹
 
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_202_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Uno
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260007_f~0_g~1_s~a5176519-1c67-49d2-b9d5-50cacb3a6875_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~58_x~0d823b6ce06e11c9cd45ddb1bccd432d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296006_f~0_g~1_s~00038c26-44dd-4299-909b-ad890da75658_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~58_x~f7e8a54a9be6127303b795cf33e5d4e6/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_564_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Due
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11152c4ea1a3bffdd277ce333e54631a:17f0c028800dbcb294b9aebbae1f7e0c
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260015_f~0_g~1_s~f1166dce-70ac-488d-95c8-e582980bef5c_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~58_x~a6201e02e4cf5eeb5d1415d0a016146c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadue)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296014_f~0_g~1_s~9cd8a013-f34e-49bc-bcac-5cf3181e785f_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~58_x~c49218e96086caa95c2fab84ae046a6b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadue)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_204_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Collection
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11155d8a1fe0b211137c206354e16d2a:7f07d0ef693893a84162d51c1c7259f3
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260009_f~0_g~1_s~025fcc4c-1a3b-4a0b-93b5-ee189f778075_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~65_x~c9bd3b77a918ea48e1477dce33196be2/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296009_f~0_g~1_s~2b22e584-7a2a-490f-bca0-dc84f17ddcfc_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~65_x~4883aa1f33cc21802bd3f131419828ac/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_255_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Family
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115074065832f74af7e279e1203adce:20ece4131fbec82ac7ff056838512143
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260017_f~0_g~1_s~d73b8548-9be5-43ab-bf09-ce115e80d2b9_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~61_x~735f7468f8afab35d5d7036f7fa2c258/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296016_f~0_g~1_s~577048a2-07ac-426f-b210-29fadad358f4_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~61_x~54f5f8f71eee7f89d51bcb7538c96365/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_206_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Action
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11150443883da4df27e25110d10fca31:83b6390471a083e00f8f3aff2a271be9
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260014_f~0_g~1_s~a5550c9e-b042-47f5-94b9-c8c56d420822_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~61_x~690d698ab4a32d5a60243c34678be9b0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296013_f~0_g~1_s~a4d7e97a-6d96-495c-91d2-80749eddf9aa_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~61_x~a44d08c36c88aeede2e697f54d059d7c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_47_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Suspense
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115d04562a1c328a84b2dab41244cba:5cf8c65d4177349308d7043384880659
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260021_f~0_g~1_s~44ffad5f-150c-4e37-959b-ba6dc66c7237_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~63_x~a55d565b343d96ede573958687fe9e9d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296020_f~0_g~1_s~e9f2f6de-6da9-435a-8527-8451010eb997_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~63_x~44707a10a60f4cb49bc80562e8dc7768/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_231_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Romance
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115dbeea57d2fadedc278956bcbfb02:3eee23f97ae49a81c03356599a614fca
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260020_f~0_g~1_s~72710ca4-94ed-40c0-8b97-1e1457c48b0d_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~62_x~487ce0e0241c7ff406a8a884afd395fb/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296019_f~0_g~1_s~93aa81ae-d34b-42a5-bf23-9adcc48db61b_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~62_x~fc85c2571778af4aa6b160af2d77e228/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_769_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Drama
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11155ad807b90b9570fb8cce067f6166:74c4430ed8142190e52d4b303286696f
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260018_f~0_g~1_s~84090128-5d4c-40c2-af89-c2a94f379eeb_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~1176f223e12885b7267a4393b3b52cd7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296017_f~0_g~1_s~52283c89-bd4d-440e-aa70-e635b7b36632_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~cd309c163a4d624b20633253d37d7a9c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_30_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY CINEMA 🇮🇹",📺 Sky Cinema Comedy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115676eca79233f2919b53f1a1709b8:72298a31b1b015b52adc03ab222494c2
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260010_f~0_g~1_s~0acbd15d-8e8f-4053-8206-ff7e62d02c3b_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~61_x~2a22f1de2e574aca5c3fd28c61ca6197/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296009_f~0_g~1_s~bdb6a151-e2eb-48ac-b159-ef34053d1e78_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~61_x~504a858cbebe51a20dcedc8d30deac76/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
 
 # SKY SPORT 🇮🇹
 
 #EXTINF:-1 tvg-id="Sky.Sport.24.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_35_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115a751def91bf91ffa5d01c707531b:e91e66a0994b07ca2a67e74747850545
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260005_f~0_g~1_s~5cddfc05-33fb-43c2-b7f0-ae4328805505_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~56_x~e01f3bfd0ff0580d0c144328607da5ce/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport24)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296005_f~0_g~1_s~25250ad0-e334-4285-937e-ede9f20c3467_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~56_x~af4bd6b272312690c4b3228926a124e7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport24)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.NBA.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_764_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Basket
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111552e097bbdf0970145db4d77eeed2:a6dd114e3a89765d721fda8b42dcec43
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260013_f~0_g~1_s~08171f18-96f9-4822-8e8d-c88a4801f922_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~daa2216a9fbb9094929d409aa474ce23/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296012_f~0_g~1_s~1865af7c-8ed0-4884-8a9b-4257b7220627_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~7d47f9901efbd535264f45263972f8e4/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_23_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Uno
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11156bcfc700ed2d5430b4e31cbfb5b4:ecaa01afacf52dac8a83d146aab37fba
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260006_f~0_g~1_s~71c5dd34-c80e-4c8c-9b45-ba7ec91c70b0_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~1e337b1033d709396412716227a7f9c8/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296006_f~0_g~1_s~f1d281ef-4571-4b7e-a3de-acf2260f2876_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~7d50d92f325ad31aba2360aae1c73622/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_248_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Max
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11154ad2087dade5f3ae9206792350a9:195895c5e0e20613c3e46e04f7858f38
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260012_f~0_g~1_s~f76bfecc-dbea-452f-b619-72d1e61420a6_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~9e340544c22d3a39938e5de17524e87b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmax)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296012_f~0_g~1_s~29260dce-2a62-4390-a5ac-96234f10f3c2_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~18bc59d3ad87b6189d222ce198d4939c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmax)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_24_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Arena
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115f6b4279b9a9cc41640bdb95442c4:58b7a9c2e0fbf8085905f9d156cc5b74
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260012_f~0_g~1_s~44ce9e6a-31e2-4de5-8300-df2a20ba2adc_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~59_x~37ae3de1c229612f1ad121e154d47bc5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportarena)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296011_f~0_g~1_s~7b79208c-44ba-49b2-bbdf-91a5bdca84a1_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~59_x~df216a9efac0ad90fbda304cff6a38cf/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportarena)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_478_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport F1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11158bf9e7959812de2541cc9c443eec:901f0e382be93ec25643362f6c100072
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260007_f~0_g~1_s~168686a6-f29b-4f58-9dee-4e95aecd5f3c_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~56_x~a5c08c336d1f437cc2874585ee35f38b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296007_f~0_g~1_s~486eb6b5-a6f0-4a5f-82e8-b85c250e8968_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~56_x~c569c6cdcd5c4b5a85bbfb872685c7df/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_483_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport MotoGP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115e5ca38ef04afb3982504c6dbffe8:4c52b975e120d0ab49c360fd320268e8
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260009_f~0_g~1_s~04080f25-0dc1-4df8-a561-eee059e6a402_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~d1096d32032ec1cb42dae8d8479511ff/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296008_f~0_g~1_s~3320871a-a2bf-4410-b8a4-3b043de28e53_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~e97d760fbdb9fa2bbfc074836ef5dea0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_559_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Tennis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111545310037ab31974f070e74f1b90f:161453ea884bc783049a8909de44521f
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260008_f~0_g~1_s~ac57766c-6ec2-448c-813b-57e05d21897e_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~1448af6aeecd619157c91c9086934a1d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296008_f~0_g~1_s~9151aef0-4109-4042-b463-c8ac9b0b2279_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~ecfb82d6614e0e8e13ba5f51eb435e73/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Mix.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_579_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Mix
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111533957749e0dea03e9846da2c6e7c:e256431936e849356857b6192ceb0197
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260014_f~0_g~1_s~d7d031da-a135-4921-b2e5-37da9522af40_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~003c292068decd6bc533b0700cf05f81/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmix)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296013_f~0_g~1_s~6c56551a-9e9c-462a-af36-984446875841_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~c12c6f0d3492ad33f8c7886c9decb3af/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmix)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Legend.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_578_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Legend
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11150de500365f53a76daab0ac475c56:833aef01001379c784955c2f60315d79
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260013_f~0_g~1_s~721dcbe8-c7bd-4814-8aab-a7c56456412f_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~60784c4cf72003ed237a58d6d13ba976/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportlegend)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296012_f~0_g~1_s~cb343822-7230-486d-a051-6d112aa18ac1_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~061366505cc526f7b7b2372bd382f4f5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportlegend)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_768_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Golf
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115a2f6f9f40516c0323cda8af67c70:0e27aa07a4ab4f798a6ff75f62f1410a
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260025_f~0_g~1_s~21549a61-6b3e-40ef-9ff8-c76ee8cc521c_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~58_x~490b7f02cef615a3561912163cf8f0ce/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportgolf)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296024_f~0_g~1_s~bf78f2da-21eb-4778-a411-bd129ae803eb_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~58_x~2976672fae5bfe689675191f6f93045c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportgolf)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_209_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport Calcio
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111572ed048652d5f9c2d92edd99d41b:4afeae8224fb62348a88b9cd3fbbdaa8
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260008_f~0_g~1_s~180ba168-cd63-45c9-b3c5-4528cea4e26a_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~2c206c9d14d0db328140cea954f11370/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296007_f~0_g~1_s~159cba4c-9301-4beb-8196-05085869014d_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~1f465792612224e3b51dde62edc67acd/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..251.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_917_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 251
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11154006d6786bbbd283d78e99b06fec:5b1120e70e6afa35711eefcf3674c250
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260016_f~0_g~1_s~4bf63def-5566-412f-9757-d8773a62d671_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~4bff040e09275431f456ac35e9fb4c37/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296015_f~0_g~1_s~e5a5bd21-ab44-4f36-af89-a25f5d4ed71b_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~ad49af0fd73887de8537b67e9604b645/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..252.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_951_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 252
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115a2dc1dd6038edae1d1baf0246f76:c85b98963955f3b45382a8c01541bdc6
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260016_f~0_g~1_s~2863bbd5-02d7-455c-b3b2-7a859cd12688_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~ea1efbf75fc227674cf61adc9534a207/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport252)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296015_f~0_g~1_s~db981957-dcfb-4739-9e1e-3f85fd7d18c4_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~9584f861574b5cf41514455f7ac2bd3e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport252)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..253.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_233_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 253
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115e80ea7d280c76d8f8077f9783f03:d0aaf1f68b05e3c94c129320fa7160cf
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260017_f~0_g~1_s~63649c3e-46b9-4569-b649-1b2706445496_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~d2ccb92fcac3eb6cb66e1167035eef33/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport253)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296016_f~0_g~1_s~2fa6d121-8303-4491-afb9-fcddf155fc3d_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~61762f61f0ad1c660787525894a12e2a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport253)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..254.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_234_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 254
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115a86f259d405076e1a6425d66b317:ebe79b4978c64ff33fb7aeb5cac831c7
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260019_f~0_g~1_s~7ba988b2-1e4c-4e77-a670-8e405adade8f_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~fa56e9c17117892db01d58ce06e6ca14/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport254)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296018_f~0_g~1_s~56ed1bf7-bb93-4890-9d03-1722291b12d4_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~2dc6d9d97f1f3585ad7e388c33311db7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport254)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..255.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_910_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 255
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115e4cf837684d2665b79d75636b31c:66eca64fa7e7737756dc3a1d21ed5b2d
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260019_f~0_g~1_s~067fa58a-cfa9-4390-827b-8cd0d582183c_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~abf237dbf4797e50c491f238965d5112/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport255)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296018_f~0_g~1_s~232c4b37-5106-41fe-8016-bd489b5ac64c_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~7e4a21ccd5c8fb2e044e981df94f9f48/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport255)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..256.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_912_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 256
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11153c9d339107d2201bd5b51ba93ca1:2ce00c645f2a97bcc27a7caf05f6438f
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260020_f~0_g~1_s~9057d2da-3971-458e-825a-16441cea49f5_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~4bb03d6c0fb8c0879ee0ac0dc48ccd41/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport256)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296019_f~0_g~1_s~b18e004d-395c-4682-a06b-6a437f9a6653_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~3adde05d74072ca476114188d21ec05f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport256)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..257.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_775_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 257
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115a630691a795e3bed0b64998d349c:65e9e71490d35b0bec4b12bb6c51179d
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260023_f~0_g~1_s~003690d4-d324-49bb-b468-eff92ca132e8_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~c49530e896c9db8b688ebc9b32fe31e9/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport257)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296022_f~0_g~1_s~0e58ce82-ed7d-4b5e-88d6-98ca60b3b57b_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~e1725d3169ae06ef0ba8eba0b9aec6cf/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport257)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..258.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_912_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 258
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115bb0040c6d04b822da9ae1af8977d:c80ba56fdee7782313a33691e9cc2146
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260024_f~0_g~1_s~2ed96c58-4913-49a1-90de-60d2116d9b1e_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~be4f20c0932b859505dff63bdb7ac1d5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport258)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296023_f~0_g~1_s~1ce8f723-1b3c-4aab-b882-ea80297910b1_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~082b6e28de117f26b2bd420ffdd648e5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport258)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Sport..259.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_613_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY SPORT 🇮🇹",📺 Sky Sport 259
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11158627294fcbd5e724e2b521c87aeb:c26bc6e33e8f39dc748f66885935a63f
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260024_f~0_g~1_s~42c516d1-e88a-410f-a5e6-bdd4fbfa05a4_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~a30d3134b0194dbbbfb4bd30991fa817/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport259)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296023_f~0_g~1_s~b3f745dc-b352-44a2-9130-1b195933443a_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~b269d6ff960ed02ce71c48fd8edde0e7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport259)/master_2hr-aac.mpd
 
 # SKY INTRATTENIMENTO 🇮🇹
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_477_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Uno
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11157cd5b949f15fed63a27edaead8e5:f307cc920e0763653005e4a8630bd8fc
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260006_f~0_g~1_s~618ec1e7-1a9e-4f94-a5ad-01c36206916b_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~52_x~21fe0b3a403aa83b921e48d0c2aac744/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296005_f~0_g~1_s~e1886846-5f01-4946-b517-31fe717cc41e_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~52_x~a5f1e1e8e1b381417721f7ca1ea04f86/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_684_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Serie
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115bf01aeadce32fcec6a220375a3fa:9df360a2a22411897cd8b1bc48c0afc0
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260010_f~0_g~1_s~b725331f-679e-4657-a61c-f4abe953b6b2_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~54_x~ee91e9acfacdb8badbd70648821d9b3d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyserie)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296010_f~0_g~1_s~5d0a131a-ebbc-4f5f-be17-3b9291950267_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~54_x~b77804865c658747e723e0370b0f68e0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyserie)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Investigation.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_686_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Investigation
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11153dd8de63f9748252104afd6b7405:255e0c5bb81bde9602d8746080496e04
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260011_f~0_g~1_s~57d9d804-18b7-415f-8c3f-c458f0a119f8_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~62_x~b57ba9435f19d697cbee0ebb4ceab6f7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyinvestigation)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296010_f~0_g~1_s~3c3b5180-8ca1-488b-9a34-ec9ef7f4d6f8_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~62_x~f98e8f113d1d1dc13b24f0895ab3d1e8/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyinvestigation)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Collection.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_431_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Collection
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11152403bc2c32ddbe6dbc5fde6db59c:ffe663ec70e40016ddad1b74c130e56b
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260011_f~0_g~1_s~42082bf3-f40a-49d8-8033-bf03d7f03f43_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~59_x~1d57061daa0ce5a588d591bb8a5a93dc/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycollection)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296011_f~0_g~1_s~0b323c49-9c73-4a5b-a23c-a24e2378ca50_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~59_x~f34b3ffbda85b2872cd6c26f638b4b3f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycollection)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_404_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Comedy Central
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11155778dc9b7dde1e396a9110f09208:c030cf978cbdc4a4c84fc68ab467942b
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260026_f~0_g~1_s~c1b67c40-3ea6-497b-b9ad-0fb4fd599e43_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~59_x~e8696084d860ec0ce6c8fc89cf00bcb3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(comedycentral)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296025_f~0_g~1_s~7ed374d0-8cac-4472-9f5c-53c2461f3699_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~59_x~3795342e2423e72e44333b16a19c3681/nowitlin1/Content/CMAF_CTR_S1/Live/channel(comedycentral)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_226_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Atlantic
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115f02862576b34b467ad4c54a09cfc:bac42e800a5c437b606e2af5b291c607
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260007_f~0_g~1_s~6e10ac72-9703-45d6-933f-86ff3a904558_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~6a904175409b3f8345bc579dc2e89db5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyatlantic)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296006_f~0_g~1_s~6642847d-4441-4e86-b8dd-2b38c1fe66de_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~0b588e0df7b74360effd1571d240ff68/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyatlantic)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="MTV.HD.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_763_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 MTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111559b5e50a4be12901e456034285a3:2fedd4c9c3be1b7f90e86c7bc44131f8
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260025_f~0_g~1_s~6d2c851a-d625-4015-bafd-f12df0ec1b84_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~49_x~f2f5f07b221b3e247f8fb9f5d4ed92aa/nowitlin1/Content/CMAF_CTR_S1/Live/channel(mtv)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296024_f~0_g~1_s~44064f44-3c2b-4fc1-9042-947bb4a48665_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~49_x~f30942334e84d51f13f3866c25151f19/nowitlin1/Content/CMAF_CTR_S1/Live/channel(mtv)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Crime.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_249_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Crime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115aa47cfa18cf73cb6f936cff1f8ee:a27e7383d481596cc34334336d3e7219
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260018_f~0_g~1_s~11f59950-fd3b-4782-b846-d61219daedf2_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~54_x~7b992894a742df0d040207606d8b9949/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycrime)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296017_f~0_g~1_s~ac7dc881-6b37-403e-897f-99d0a97c9799_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~54_x~c3f681fed5fa421e2accc4e6a4edd61a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycrime)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Sky.Adventure.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_961_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Adventure
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11158035ffbf17eebd02027e96383161:7e1ea10428e8c5cdfdac6c55b23018d2
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260023_f~0_g~1_s~391a39ec-14e5-4d25-b6c8-54d8a5d2b4b9_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~58_x~12dda36d06603dd538c2cdfeaa0b81ab/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyadventure)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296022_f~0_g~1_s~d8bcea6b-592f-4d92-8cae-bbeeff7e9a5e_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~58_x~f3d483b07dbab3bdd12d6fe70d46c850/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyadventure)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_519_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky TG24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115df8d6727807787e98c0ceae1ee6c:f4b9e52e3f31f1fa41850de4799ca4e3
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260005_f~0_g~1_s~a632aea3-c521-4f00-90ef-c8972f5581ac_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~50_x~82ff65f821c78825d78f584ae6a7ccdd/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296004_f~0_g~1_s~95ae4529-b397-40bd-9155-6a1c580aa4f0_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~50_x~87f87be02f7f3ea67a894b6e22768e33/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_74_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Arte
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11158d61157893c665c5ec942528d020:2d4b7343dd929afbbd61ef0aa37366d9
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260022_f~0_g~1_s~e47d5d9a-b124-416a-94f8-992cfce8d96b_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~53_x~f3497dfff228bf648f915f9c6f654fe8/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296021_f~0_g~1_s~3c9c5337-0af1-4963-9e57-5cbf407d50c8_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~53_x~c641122e6ec560fdaa4e9a5a5f97259b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_695_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Nature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111553a2ff74eff230c8bb72efc0504c:80ec2c7f64b97098f4f65a15d828ce6a
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260022_f~0_g~1_s~57196b39-9345-4f27-a54a-654bf2e8456c_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~55_x~ada4cefa015cb889ea5c1df29553221d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skynature)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296021_f~0_g~1_s~7879f30a-d960-4edd-aa61-87e0a0e766a5_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~55_x~cc43d25a95e7a73e75efcd291264ca71/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skynature)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_697_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 Sky Documentaries
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111556afa3ac362bbf6d6237a0096793:b80627550521e85d0997e3447245f7ff
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260015_f~0_g~1_s~28695e3e-947e-483f-99f4-4e80bc7e235d_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~62_x~7cd0608db728f2273af27c30ca3dd8b6/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skydocumentaries)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296014_f~0_g~1_s~ec549154-5082-4484-af98-07197568368a_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~62_x~ff246922a65dcfb6a430a4d013cb3da3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skydocumentaries)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_513_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="SKY INTRATTENIMENTO 🇮🇹",📺 History
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11158db9a2522642c8da56416d94c6a3:edb6a56266dde53f013d170d46b0b265
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260021_f~0_g~1_s~ec1ce8c9-e204-4c55-bf97-84e9d1ee18b6_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~a7d27dff10cc22383ebfb7d352dfc6a6/nowitlin1/Content/CMAF_CTR_S1/Live/channel(historychannel)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296020_f~0_g~1_s~adf2a99e-bea8-4988-974a-2345aea52f90_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~9f014441b7f83f78361c1805fada9007/nowitlin1/Content/CMAF_CTR_S1/Live/channel(historychannel)/master_2hr-aac.mpd
 
 # SKY KIDS 🇮🇹
 
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="SKY KIDS 🇮🇹",📺 Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115769416f3dc252a105e9b6baa84e7:44b1356b9d609448b8c102b09bcc4cca
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260026_f~0_g~1_s~44b9f881-722e-41ad-bc36-03f9496a85fc_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~5de631981b37b0e6d162a267f5ea5209/nowitlin1/Content/CMAF_CTR_S1/Live/channel(cartoonnetwork)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296025_f~0_g~1_s~da4ad937-49b4-400b-982d-444c76f98cd2_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~60_x~d4f03d0b8e4d2f302d7a0d90b765924e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(cartoonnetwork)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="SKY KIDS 🇮🇹",📺 Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11159c03b1b81a3705641f78ffdedd78:04fb2484b421c35aac9b2d5cea1c5cb9
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260028_f~0_g~1_s~9a741785-ede8-4c80-8a2f-b78a65605c25_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~56_x~faadd73137938675bf8d13d480671366/nowitlin1/Content/CMAF_CTR_S1/Live/channel(nickjunior)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296027_f~0_g~1_s~d86cb006-e57b-45fb-b97c-e57e4ed662fa_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~56_x~35b43962cce1a64b08859b5144ff24b9/nowitlin1/Content/CMAF_CTR_S1/Live/channel(nickjunior)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="Boomerang.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boomerang-it.png" group-title="SKY KIDS 🇮🇹",📺 Boomerang
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115cc41a0daf57a22c1c81bd139b559:31347f9bbc90713e972249b54ec882b2
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260028_f~0_g~1_s~dddbe84c-e6de-45da-b68c-93122a29a3f2_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~55_x~927f5bb41eddf8398c43eed3b3121117/nowitlin1/Content/CMAF_CTR_S1/Live/channel(boomerang)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296027_f~0_g~1_s~331840c2-b20f-4599-8cbd-63f81d7c7c14_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~55_x~4a4e56cd5ffbaa0f4f99b520fb76f3d0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(boomerang)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="DeAKids.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/dea-kids-it.png" group-title="SKY KIDS 🇮🇹",📺 DeAKids
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115a64e55228a124aea1f0f275cbb72:efb0d6327dc8566604f401aef73b54e7
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260027_f~0_g~1_s~4beadf53-5058-4df4-8034-d478c944eba2_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~53_x~5d7ac611448657b2766e25e80d76391c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(deakids)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296026_f~0_g~1_s~daaf54c7-49c9-43f4-906e-17f841a6e993_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~53_x~ce8a46464c40504113daefc48ee8c5ce/nowitlin1/Content/CMAF_CTR_S1/Live/channel(deakids)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="SKY KIDS 🇮🇹",📺 Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111502ab6d88754727d58f0952977a83:536d42da4788324e7c7aaf72ceb061c2
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765260027_f~0_g~1_s~de723890-e8e9-423a-ab7e-31f234f2bd14_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~ad9ee7b21f75ce4d0bc8dfdae236ab18/nowitlin1/Content/CMAF_CTR_S1/Live/channel(nickelodeon)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765296026_f~0_g~1_s~9074728b-b788-4fb3-8171-9a56608e1c5b_u~7f26f74b63755637e6ae7cfbfe513dc01b7afbe9d81451429ad0e1027b5c658056934d6f475103c5e746327e01309cac_k~A_l~57_x~fb0e4bb4dc429bb63e279d1a4166b33e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(nickelodeon)/master_2hr-aac.mpd
