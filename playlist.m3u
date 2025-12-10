@@ -69,6 +69,13 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="EVENTI LIVE 🏆",⏰ 21:00 - Juventus - Paphos - ⚽ Champions League
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11156bcfc700ed2d5430b4e31cbfb5b4:ecaa01afacf52dac8a83d146aab37fba
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1765460379_s~fa15e546-48fa-460c-8877-6f0221b2b088_u~207a5c3dec51a315bfeb07b8ae2a5320fae95fc289763bb8fecf240acd2497b4_l~57_x~0366bdd0e315076bea2cebe4d5fd1a487af11ab5a3fc043b914a0409e5df8509/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/seriea.png" group-title="EVENTI LIVE 🏆",⏰ 21:00 - Juventus - Paphos - ⚽ Champions League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
@@ -137,13 +144,20 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8
 #KODIPROP:inputstream.adaptive.license_key={"a93c1cbfdccd23233bac13540c693e7f":"2f6ab2e6693eb847eff3c9da8f9d01fc"}
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",ESPN6_SUR-Gen-011
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SPORTUNO-Gen-011
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11156bcfc700ed2d5430b4e31cbfb5b4:ecaa01afacf52dac8a83d146aab37fba
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1765460379_s~fa15e546-48fa-460c-8877-6f0221b2b088_u~207a5c3dec51a315bfeb07b8ae2a5320fae95fc289763bb8fecf240acd2497b4_l~57_x~0366bdd0e315076bea2cebe4d5fd1a487af11ab5a3fc043b914a0409e5df8509/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",ESPN6_SUR-Gen-012
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"859a7ef7e969a0ae9584005a8b642fd6":"a90ca0de14cc1ea2305bb26ce18d2abe"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",ESPN4_SUR-Gen-012
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",ESPN4_SUR-Gen-013
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1edee1ef683e9518a172af824b07642a":"39371baca096e3c1c896e55bab88b564"}
