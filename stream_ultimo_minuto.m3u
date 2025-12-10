@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-12-10 20:06:05
-# Canali totali: 8
+# Generata il: 2025-12-10 20:11:09
+# Canali totali: 9
 
 #EXTINF:-1 tvg-id="DAZN4.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 DAZN 1 (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -9,6 +9,10 @@
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 #KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjUzODYxOTMsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5IiwiMTI2NyIsIjMwNzIyIiwiMzEwMzQiLCIxNjI3NiJdLCJpYXQiOjE3NjUyOTk3OTN9.4yHWk9TvUfSOqU_hjFjVwe-PfthQ4BuY9-vquB2GgZo&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dct-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 21:00 BENFICA vs NAPOLI
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://swisslau1-3-dash-live.zahs.tv/HD_blue_sport_d_1_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIZBUGOKFIVCDERRQG42EILJUHFAUMQJTGNCUCRBRIIZDCQ2CEZSHE3J5MV4HA2LSMF2GS33OHIYTONRVHE2TSMZWGETGS3TJORUWC3DSMF2GKPJYGAYDAJTNMF4HEYLUMU6TQMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLJOQTHG2LHHUZDEXZXMMZDSZBWHA2DOYLCMRQTAOBXMM3TAMTGHFTDSMJVGJRWGNJVGMTHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORSGA3TKMBYGATHMPJQ|0000
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:30 Vanoli Cremona vs Openjobmetis Varese (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
