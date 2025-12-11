@@ -6,3 +6,9 @@
 #KODIPROP:inputstream.adaptive.license_key=12b1e69d6d33580b98ff76f7d386e82e:c89ac161e1dd782f574bdccd9e030e19
 #KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend:1765561634~geo:IT~asn:210218_198471~path:1_1_a23cf405d5633f40bd34357dc9aec92774d945cb3db7e6e46c328d3aa5ce0e3c~ua:89db729cfcdc129111f017b0e7ac324a~id:5e0eb30d683c~tk3:d266a92dbc6d4edb0c6d0e7d5276cc64c5bd2ee856fc598960e36e71f4fc034b&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dca-de-livedazn.daznedge.net/1kxrnv92dg5qb12dkku7u3gl72/web/stream.mpd?channel=5061&outlet=dazn-italy&plang=en
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Secondo Test
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12b1e69d6d33580b98ff76f7d386e82e:c89ac161e1dd782f574bdccd9e030e19
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend:1765561634~geo:IT~asn:210218_198471~path:1_1_a23cf405d5633f40bd34357dc9aec92774d945cb3db7e6e46c328d3aa5ce0e3c~ua:89db729cfcdc129111f017b0e7ac324a~id:5e0eb30d683c~tk3:d266a92dbc6d4edb0c6d0e7d5276cc64c5bd2ee856fc598960e36e71f4fc034b&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-de-livedazn.daznedge.net/1kxrnv92dg5qb12dkku7u3gl72/web/stream.mpd?channel=5061&outlet=dazn-italy&plang=en
