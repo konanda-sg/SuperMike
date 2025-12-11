@@ -1,20 +1,43 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="Events",Test
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Basketball_icon.svg/800px-Basketball_icon.svg.png" group-title="EVENTI LIVE 🏆",Basketball | Minnesota @ Purdue
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12b1e69d6d33580b98ff76f7d386e82e:c89ac161e1dd782f574bdccd9e030e19
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend:1765561634~geo:IT~asn:210218_198471~path:1_1_a23cf405d5633f40bd34357dc9aec92774d945cb3db7e6e46c328d3aa5ce0e3c~ua:89db729cfcdc129111f017b0e7ac324a~id:5e0eb30d683c~tk3:d266a92dbc6d4edb0c6d0e7d5276cc64c5bd2ee856fc598960e36e71f4fc034b&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dca-de-livedazn.daznedge.net/1kxrnv92dg5qb12dkku7u3gl72/web/stream.mpd?channel=5061&outlet=dazn-italy&plang=en
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Secondo Test
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12b1e69d6d33580b98ff76f7d386e82e:c89ac161e1dd782f574bdccd9e030e19
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend:1765561634~geo:IT~asn:210218_198471~path:1_1_a23cf405d5633f40bd34357dc9aec92774d945cb3db7e6e46c328d3aa5ce0e3c~ua:89db729cfcdc129111f017b0e7ac324a~id:5e0eb30d683c~tk3:d266a92dbc6d4edb0c6d0e7d5276cc64c5bd2ee856fc598960e36e71f4fc034b&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dca-de-livedazn.daznedge.net/1kxrnv92dg5qb12dkku7u3gl72/web/stream.mpd?channel=5061&outlet=dazn-italy&plang=en
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Dazn 1
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1765479668~exp=1765566068~acl=/*~id=5e0eb30d683c~data=country=it#asn=210218,198471#path=1s,1d#hashp=5789a783889f33efa8abc0b6676bdd7c67cb01fd485a65c77c9de310d4fe63e1#hashua=62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac=493831d7fabc616c108140b54f1db83274a076e60c64f5841a587e07ff286f2f&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://pubads.g.doubleclick.net/ondemand/dash/content/2538524/vid/1eb57cd59d3b062d6896e4ab76fe4138/GRQ/streams/d8433036-66b8-421d-84ba-a0e015e21ffc/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="EVENTI LIVE 🏆",Live TV | DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwiaW50c2lnIjoibVc1SW9nZWgySkVuNVBPOGV0WXRoX0lRZXlUSWlUbUJMQmEwY29DZHRlayIsImlhdCI6MTc2NTQ3NzEyMCwiZXhwIjoxNzY1NTYzNTIwfQ.O0HJbUgGUyv9SH45yaTD2rH3EHg-u6nZkq9O75g2qKE&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dct-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1765479266~exp=1765565666~acl=/*~id=5e0eb30d683c~data=country=it#asn=210218,198471#path=1s,2d#hashp=7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d#hashua=62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac=deeb5c7a41ac3207d454e41f10e7fbb96a17e508aa97be6ab1a6f61ce8e1b3fe&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-de-livedazn.daznedge.net/dash/dazn-linear-206/stream.mpd?p=web&channel=206&outlet=dazn-italy&plang=en
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="EVENTI LIVE 🏆",Live TV | Inter TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89f9ea4a13bf5beeaa4e7120365d51b9:181a950b390590eff2f608d3d0ff3a91
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU1NjU2ODEsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiMGMwZGJkYWNhYjgwNzUwMzNhZmQ4ZjlkMWZiMDM5NWIyMmMzNGU4MiIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NDc5MjgxfQ.k-EYBVmN9Cpv9eaew5ZCUHSayJ5hgm9XJnv4EsL1Bc0&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-de-livedazn.daznedge.net/dash/dazn-linear-215/stream.mpd?p=web&channel=215&outlet=dazn-italy&plang=en
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="EVENTI LIVE 🏆",Live TV | NFL Network: Live 24/7 Coverage
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d91b5dc41ef85a25883ca47efb3c6641:5fa7e0ff1e379a83e44005917e3af5f2
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1765479652~exp=1765566052~acl=/*~id=5e0eb30d683c~data=country=it#asn=210218,198471#path=1s,2d#hashp=12db6456c6038b13cde753976f96819e327a59e3944f86aa9191e9cad885044c#hashua=62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac=9ccea7e13c3cf7c1e554e5d53d320694f2a08148c873f5fb1afec41740276988&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-de-livedazn.daznedge.net/dash/dazn-linear-205/stream.mpd?p=web&channel=205&outlet=dazn-italy&plang=en
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Inter TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89f9ea4a13bf5beeaa4e7120365d51b9:181a950b390590eff2f608d3d0ff3a91
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1765479622~exp=1765566022~acl=/*~id=5e0eb30d683c~data=country=it#asn=210218,198471#path=1s,2d#hashp=c73f88952563b1d31061a6d2e3bfcfaa1de9d31f6d5314c25050e7352d42051a#hashua=62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac=ebd1ab91836b4c5f07ab8a95d5163e1eb312b4bb7211b89b2edfaeb608a34e24&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-215/stream.mpd?p=web
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Milan TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1943a19a78ea525ba289c57b2b111953:0144bde540ca8a574661a80df9576d77
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1765479285~exp=1765565685~acl=/*~id=5e0eb30d683c~data=country=it#asn=210218,198471#path=1s,2d#hashp=b811945900c049508ef6bff80d7924c097d17175ab79fa39e963b7c5712a8256#hashua=62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac=61296e525e17fe1ab9dc8210923b34439b567dec0913fec034889e07c07f03b8&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-207/stream.mpd?p=web
