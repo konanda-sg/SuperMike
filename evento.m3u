@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",dazn 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1765565257~exp=1765651657~acl=/*~id=5e0eb30d683c~data=country=it#asn=210218,198471#path=1s,2d#hashp=7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d#hashua=62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac=92121a48570c5da1ee86dc34cba1dc91977e8c8482561ac8f659e5854b89a068&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",dazz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 #KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765565257~exp%3D1765651657~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D92121a48570c5da1ee86dc34cba1dc91977e8c8482561ac8f659e5854b89a068&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Test
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89f9ea4a13bf5beeaa4e7120365d51b9:181a950b390590eff2f608d3d0ff3a91
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765565274~exp%3D1765651674~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%23path%3D1s%2C2d%23hashp%3Dc73f88952563b1d31061a6d2e3bfcfaa1de9d31f6d5314c25050e7352d42051a%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D3d5c11bead4bbc45b0f0f9fa05f92ca7a45d8d47e6cafad904026e0f2e067c4e&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-215/stream.mpd?p=web
