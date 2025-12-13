@@ -1,15 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",dazz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765565257~exp%3D1765651657~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D92121a48570c5da1ee86dc34cba1dc91977e8c8482561ac8f659e5854b89a068&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765607024~exp%3D1765693424~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D795587f31a116e4272efb3d7ef1acfd392a2a3f1611ce1b821c321d9c1040754&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Inter TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89f9ea4a13bf5beeaa4e7120365d51b9:181a950b390590eff2f608d3d0ff3a91
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765565274~exp%3D1765651674~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%23path%3D1s%2C2d%23hashp%3Dc73f88952563b1d31061a6d2e3bfcfaa1de9d31f6d5314c25050e7352d42051a%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D3d5c11bead4bbc45b0f0f9fa05f92ca7a45d8d47e6cafad904026e0f2e067c4e&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765607051~exp%3D1765693451~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%23path%3D1s%2C2d%23hashp%3Dc73f88952563b1d31061a6d2e3bfcfaa1de9d31f6d5314c25050e7352d42051a%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D59296d1e6722389d33910ea0fa3adc466fbd32cdb27b69a779e4b0050b821b43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-215/stream.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Texas @ UConn
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c94ce36951675f349bbb9b028200af9b:9e0e2b42c2012d9c48ef14380c07efa4
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU2OTM0ODMsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiMGJlNmM3YmY3NDZhZmI0MjFiYzIxZGNmYWIzOTNjYWI1ZjIxNjY3OSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjA3MDgzfQ.4PoOmDJAO-D8qNRjh1W-Q3Kr1Yl8790RbD-GnTfz210&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-fs-live-dazn-cdn.dazn.com/8v2neo3ht0kj1f2f7mlkpa61g/web/stream.mpd?channel=5068&outlet=dazn-italy&plang=en
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",DAZN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765607024~exp%3D1765693424~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D795587f31a116e4272efb3d7ef1acfd392a2a3f1611ce1b821c321d9c1040754&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Inter TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89f9ea4a13bf5beeaa4e7120365d51b9:181a950b390590eff2f608d3d0ff3a91
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765607051~exp%3D1765693451~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%23path%3D1s%2C2d%23hashp%3Dc73f88952563b1d31061a6d2e3bfcfaa1de9d31f6d5314c25050e7352d42051a%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D59296d1e6722389d33910ea0fa3adc466fbd32cdb27b69a779e4b0050b821b43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-215/stream.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Texas @ UConn
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c94ce36951675f349bbb9b028200af9b:9e0e2b42c2012d9c48ef14380c07efa4
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU2OTM0ODMsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiMGJlNmM3YmY3NDZhZmI0MjFiYzIxZGNmYWIzOTNjYWI1ZjIxNjY3OSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjA3MDgzfQ.4PoOmDJAO-D8qNRjh1W-Q3Kr1Yl8790RbD-GnTfz210&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-fs-live-dazn-cdn.dazn.com/8v2neo3ht0kj1f2f7mlkpa61g/web/stream.mpd?channel=5068&outlet=dazn-italy&plang=en
+
