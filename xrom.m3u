@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # XROM AES Streams
-# Generated: 2025-12-13 13:35:39
+# Generated: 2025-12-13 13:40:58
 # EPG Auto-Updated: 2025-12-13 09:25:54
 
 # SKY CINEMA 🇮🇹 - XROM AES
@@ -243,8 +243,8 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765713647_f~0_g~1
 
 #EXTINF:-1 tvg-id="Boomerang.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boomerang-it.png" group-title="SKY KIDS 🇮🇹",📺 Boomerang
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115cc41a0daf57a22c1c81bd139b559:31347f9bbc90713e972249b54ec882b2
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765713648_f~0_g~1_s~5e8d5606-f7f4-4312-9fa3-5045b32766b4_u~3001b56f48c5d84905b510f6733ed16d5138f4b0b4af8fc7dbbea3849d26fa49c53867dd94003663fc3a2c3ec81fb8f1_k~A_l~55_x~63972aaa71ec9ae59b593e14fd4a55af/nowitlin1/Content/CMAF_CTR_S1/Live/channel(boomerang)/master_2hr-aac.mpd
+#KODIPROP:inputstream.adaptive.license_key={"encrypted":"32664554dfbe8b17164ca0aa37c4fdce84374b4d577c25a0a34c75a8db87e376","authTag":"efeee4368236671647c8e5428b78d4b4","iv":"616263646566313233343536"}:{"encrypted":"306647558bbb8644151ffdfb66c0f9ca8f321a4e007d76f7f31825a98180b47d","authTag":"1bd7c0c76e5b58be891617142e95902c","iv":"616263646566313233343536"}
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~1-0-0_e~1765636296_f~0_g~1_s~969abba3-296b-401d-92d7-0a7511403942_u~b76960cf9b7c4a6ed76673ba9aa92a26c1089fc675e9bd687eee49b9eebb8cca04ac3c67035af0a5e937aaa4cde9aa4c_k~A_l~55_x~04a0295721dd921ae33008db9777274a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(boomerang)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="DeAKids.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/dea-kids-it.png" group-title="SKY KIDS 🇮🇹",📺 DeAKids
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
