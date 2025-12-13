@@ -13,3 +13,10 @@ https://dcb-ak-livedazn.akamaized.net/150ivjdyv89511kdgln7m1hxwm/web/stream.mpd?
 #KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MjYwNzUsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiMGU3MjNjYmE2N2Q5ZDAxZTdkM2MyMWY3Yjc1YTk2YmYxOWEzZGRlZSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJkZSIsImFzbiI6WyIyMDYxNTAiLCIyMTAyMTgiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjM5Njc1fQ.EOYeE8GU8ut2dlHGMrliSrQA9LbrqHjNhHMwZ2ySgkU&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dai.google.com/linear/dash/pa/event/-mHQWHgGRpay-hlpyK4sWA/stream/7f251133-165b-43cf-bdfe-65b9242afa8a:GRQ/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Torino - Cremonese
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MjYwNzUsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiMGU3MjNjYmE2N2Q5ZDAxZTdkM2MyMWY3Yjc1YTk2YmYxOWEzZGRlZSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJkZSIsImFzbiI6WyIyMDYxNTAiLCIyMTAyMTgiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjM5Njc1fQ.EOYeE8GU8ut2dlHGMrliSrQA9LbrqHjNhHMwZ2ySgkU&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dai.google.com/linear/dash/pa/event/-mHQWHgGRpay-hlpyK4sWA/stream/7f251133-165b-43cf-bdfe-65b9242afa8a:GRQ/manifest.mpd
+
