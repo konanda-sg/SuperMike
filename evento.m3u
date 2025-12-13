@@ -92,3 +92,9 @@ https://dai.google.com/linear/dash/pa/event/6Lu4KTOPRjWRA1I1AO6aeQ/stream/84c3ce
 #KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEifQ.eyJwYXRoIjoiLzE1MGl2amR5djg5NTExa2RnbG43bTFoeHdtIiwicGF0aF9kIjoxLCJzc2lkIjoiNWUwZWIzMGQ2ODNjIiwiYXNuIjoiMjA2MTUwLDIxMDIxOCIsImdlbyI6ImRlIiwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjM3OTg5LCJleHAiOjE3NjU3MjQzODl9.SRshbr12e0vZ91dxsparnLvq5jP3NGykNnINfVrwXPI&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dai.google.com/linear/dash/pa/event/-mHQWHgGRpay-hlpyK4sWA/stream/0bcd57bc-2964-42f9-8513-c9b547bd0913:BRU/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Torino - Cremonese
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765637989~exp%3D1765724389~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dde%23asn%3D206150%2C210218%23path%3D1s%2C1d%23hashp%3D54ebde38b4d1ea60ab718129e12d071847da183da59f1230b7ddde3e9f69733e%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584%23wm%3D0~hmac%3Ddc53d8b1a150b53e8d569bea1b9bcb97da2e31d8afd74f07e3c6f156dc581821&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcb-ak-livedazn.akamaized.net/150ivjdyv89511kdgln7m1hxwm/web/stream.mpd?channel=1349&outlet=dazn-italy&plang=en
