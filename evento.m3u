@@ -1,52 +1,45 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Buongiorno Serie A
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Venezia - Monza
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47daed2e9d1b5b6f8d30488d9c48c159:e621189b3ffcce498b3cf0e5d969e787
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MDAxODMsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiZDhkNTA1NzAwNzFmMDVjYjc5MTg4ZWRhNzJlNTFjMjA5MTRiMzNlYyIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjEzNzgzfQ.Y7msYojI1M2T7XW8e8pwk2nSNUBSuQYJQd18LsxTEFc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dai.google.com/linear/dash/pa/event/K5_bwjOJQquq2u32Jeu28A/stream/17165a67-3fe2-4e8e-ad61-de8c0464b60c:BRU/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=a15b3c3a575a5c9daa25ec38295dc9e8:d73068c239ea3da31dc690a524a88a78
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MjM0OTEsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiNGRhYmY4ODQwZjFmNjUwMTkwZDk0MjVlMTE4YTdmMDdjNTkzYWJlNCIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJkZSIsImFzbiI6WyIyMDYxNTAiLCIyMTAyMTgiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjM3MDkxfQ.HIj7VqYc38WtDKvb4D7GAtGri6BnUSRd8IZpJSmvAQA&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dai.google.com/linear/dash/pa/event/GaCxMXUzSoawV4zSQniQ7A/stream/925ced78-ea28-481b-bd8d-4eb1f95367a1:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Alpine Skiing Val d'Isere, Giant Slalom Men Manche 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Südtirol - Bari
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a10ace2a00b5f27b6efe82a846696d0:0a10ddc77514dcda4aa514255d4781eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend%3A1765700235~geo%3AIT~asn%3A210218_198471~path%3A1_1_83d01104df462be3917ddae5208af6dcea7da0a3e3d480588d95b6e5bb9aeaeb~ua%3A89db729cfcdc129111f017b0e7ac324a~id%3A5e0eb30d683c~tk3%3A9b2b930daf7850e27a188469c4c27780569f67233d10a7c9c64a6f3b2ac44dca&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dai.google.com/linear/dash/pa/event/mNVrUzvrQO6zrdQXqAklbw/stream/c53c80ca-4386-4d8a-b68e-5e8ece79172a:GRQ/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=320738e52e045cb9b629f756f3ff10d5:de2f7d7d321ef739f1dd98d4116bd26c
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MjM1MjEsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiNjhmZDk5OTBiY2M0NDEwZmYxNzQwNzY3OTk2N2VlZjczNGYxZGRmOSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJkZSIsImFzbiI6WyIyMDYxNTAiLCIyMTAyMTgiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjM3MTIxfQ.3A0slvGYUGH-jtxljY12UmJTm0Q7w2T9ny2RGlDco8E&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dai.google.com/linear/dash/pa/event/7wsQcKT_Q42tx6sgNlJnPg/stream/d6d2c568-b19f-4921-95cc-a6002e61216f:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football ZONA SERIE B - MD16 - 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MDAzODgsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjEzOTg4fQ.P8UaWVfFV2Od41hxBxZPiUUWLKeWpdta5n7bbmUX6HQ&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=45c56643bdf3517dbf4ff1d87478e538:d42664954c1ea20d4561f68c1034ef3c
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MjM0NjcsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiNmNhMzE1MTEyOTdjMGI5YzIxMzgyZDMyYWIzNDA2MTM4NTYzYmIwNSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJkZSIsImFzbiI6WyIyMDYxNTAiLCIyMTAyMTgiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjM3MDY3fQ.7DAM1NZNZDTZyUksUM1LHgzyysjFSVNifMo3Qu3h2gE&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dai.google.com/linear/dash/pa/event/3KbVoG1xQB2_5Vzgbo3onw/stream/ee40e629-1d22-43be-805e-629c137255b0:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Obiettivo Sulla Serie A
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Torino - Cremonese
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1fab21569a654c2832e0dddd9879e94:ca0ace95f565105e6a4b0b2da3bc428d
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend%3A1765712407~geo%3AIT~asn%3A210218_198471~path%3A1_1_9f5fe757e4a738ebed42d4f8f821d1fcc60ef0af3a8bf7e335be8f4775065093~ua%3A89db729cfcdc129111f017b0e7ac324a~id%3A5e0eb30d683c~tk3%3Ac989c279aee91cd37689df589a56b3ec952f7627186bbc30ec39b6514a1e27f8&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dca-de-livedazn.daznedge.net/2e61ugk938lq1onlo90lgj160/web/stream.mpd?channel=5071&outlet=dazn-italy&plang=en
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MjM0MTcsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiMGU3MjNjYmE2N2Q5ZDAxZTdkM2MyMWY3Yjc1YTk2YmYxOWEzZGRlZSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJkZSIsImFzbiI6WyIyMDYxNTAiLCIyMTAyMTgiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjM3MDE3fQ.Td3sORjPAUrRc04g_L4l9gTk5NzxwS8_JIxEanM6Qg0&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dai.google.com/linear/dash/pa/event/yjg6VFFTT82W-zK_xbDmRw/stream/bbeea74a-502f-4d72-9125-d13a9c65f9ee:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Juventus - Napoli
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Reggiana - Padova
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e7c30c5acbb5c6aa4452a2236b2bb05:abbcd92e17461b64bac33e25a7a9bcc2
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend%3A1765712552~geo%3AIT~asn%3A210218_198471~path%3A1_1_81cb4b620a4a0a0793a102c25f1c8b689ff9073ad58220f8c74d57e2523eaf75~ua%3A89db729cfcdc129111f017b0e7ac324a~id%3A5e0eb30d683c~tk3%3A563e97cc1732aabfeee3fd886f4df8f45ae78c5b069fa16aeb26c5c240d69020&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcb-deit-livedazn.daznedge.net/17p3kyqmvfhhj1iju50f0twm5l/web/stream.mpd?channel=3937&outlet=dazn-italy&plang=en
+#KODIPROP:inputstream.adaptive.license_key=af3273155fc854ad8350c4d422128315:4690c620e43aa0330c9530c41c1a852c
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MjM1NDIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiZWJlZWY1OGExM2IzOTdlMjI2YmRkYzRjOGU3MDI2Nzg3MDJhYzRjNSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJkZSIsImFzbiI6WyIyMDYxNTAiLCIyMTAyMTgiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjM3MTQyfQ.Rqqs6hXiu-NjTTTaO3BWdRyAe6ZFa2bX1LPkj8sFJe8&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dai.google.com/linear/dash/pa/event/77a3eI0qR5S4p2SdavF7Cg/stream/41295dc1-bd66-4192-ace9-a6ad5d637c08:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Granada - Real Madrid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",Football Spezia - Modena
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daae931bd45650c98cb3682f17ac9dd0:4e4ead4baa2ceb98d8738904c473d96b
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MTI0ODMsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiZjNmMWYxNzgzOWNmYWMyMzMzNTM2N2I1MDJmZWE5YTM5Mjc5ZjZiOCIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjI2MDgzfQ.5D9B890mtcl8s9Ld7IO_J-wVKdAhtCjZRLd-_tSPmoI&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dai.google.com/linear/dash/pa/event/VcbuBOUHReiz8dXkG2NHsw/stream/6354522f-7db8-4151-b881-fbce049b9da7:BRU/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",DAZN 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU3MDAzODgsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NjEzOTg4fQ.P8UaWVfFV2Od41hxBxZPiUUWLKeWpdta5n7bbmUX6HQ&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=9002b4fa46df5cf1a3b1ae7fe542fdda:1dfd6ebcc6fb29288c31589e5a5fca7c
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMTVpM2hsOG0zMHJoMHp1ZHJyN2t4ZHFicSJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjIwNjE1MCIsIjIxMDIxOCJdLCJpbnRzaWciOiJUM1RkYU5lVHhtOXRLQm9LVjFaRjZJa3VsRDZ1Q0tSTlNYODlLRjhmbnVJIiwiaWF0IjoxNzY1NjM3MTA1LCJleHAiOjE3NjU3MjM1MDV9.sikoVwqBo2xaF0HMmxiGQu-Z8avEyWbKVbM3WkvvNKU&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dai.google.com/linear/dash/pa/event/6Lu4KTOPRjWRA1I1AO6aeQ/stream/84c3ceda-262c-473e-9a7a-e435d4584cf6:GRQ/manifest.mpd
 
