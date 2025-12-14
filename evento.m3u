@@ -12,3 +12,23 @@ https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 #KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiLCIyMDYxNTAiXSwiaW50c2lnIjoidm5vZlV2WlFyMzFyRFJfTERIZ0poelhFRzk4V3BFSll0emJkUmtka1dzMCIsImlhdCI6MTc2NTcxNDYwOSwiZXhwIjoxNzY1ODAxMDA5fQ.pFqYfP1sZqrEDXM6yw8m9heiGlCCx_dWSIVnHl0MRm4&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",DAZN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765720206~exp%3D1765806606~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D9ec27650f0cb3a9c3e9a4cb30fdb6bd90685537cce0173723181d1bb445d169e%23wm%3D0~hmac%3Df56d4f4e683ecb3616d71a6b14a6441fed7d68228b7e5f3a4dfbbe612553382f&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-tm-livedazn.dazn.ticdn.it/1hj9aksczvabr1rns9zmd11xzs/web/stream.mpd?channel=1349&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",DAZN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765718402~exp%3D1765804802~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Db1ec154b868a00a375c4b59c00da31f292208b64586b2266ecc8b08e21441ed4%23wm%3D1%23wmd%3D1152~hmac%3Df90861f8541f95b5db4387b0fd179167abab30fd25110ea7e893b523730e3a3a&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+
+https://dca-tm-livedazn.dazn.ticdn.it/1sa82jcsazxou1v4ccinz60vaz/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",GENOA - INTER
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend%3A1765815329~geo%3AIT~asn%3A210218_198471_206150~path%3A1_1_8f3da5adcebe4a0e3b77eac8862dc73433d24aa90b62f734d56be9b76029125d~ua%3A89db729cfcdc129111f017b0e7ac324a~id%3A5e0eb30d683c~tk3%3A9cb605faf468bf3102626dc3c28ea390d1daacd56c3390819f19db543669c152&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dca-deit-livedazn.daznedge.net/w251cm046s471nv6nvr1w87xs/web/stream.mpd?channel=1350&outlet=dazn-italy&plang=en
