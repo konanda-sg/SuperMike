@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-12-14 12:24:30
-# Canali totali: 4
+# Generata il: 2025-12-14 12:39:36
+# Canali totali: 6
 
 #EXTINF:-1 tvg-id="DAZN4.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 DAZN 1 (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dcs-ak-livedazn.akamaized.net/@st%3D1765598403~exp%3D1765684803~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%2C1267%2C30722%2C31034%2C16276%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3D87f6b4ee2f544a81de16d0807fad40d1900af7711969f271c72465e90ec6f447/dash/dazn-linear-206/stream.mpd?p=web
+https://dct-ak-livedazn.akamaized.net/@st%3D1765684803~exp%3D1765771203~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%2C1267%2C30722%2C31034%2C16276%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3De9fd649aa710bf8658663e7756e023d47641a3b91ebe7e26575f23e1ca37af1f/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:15 Trieste vs Reggio Emilia (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -21,10 +21,17 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-pr
 #KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 PARMA vs LAZIO (ITA - MPD)
+#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:30 MILAN vs SASSUOLO [Opz. 1] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765641691~exp%3D1765728091~acl%3D/%2A~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D40d51d301d910c122b186eb51c7bc0e4dce3b71103a7638abc16ec96dd3e92c1%23hashua%3Dce0e66888672286a14851ed7b8a7ac77534c503cec5d252a3392c15ca8cea118%23wm%3D1%23wmd%3D1152~hmac%3De0f9edd3402d63ff3ce514d10682db2368a4eb216345bd9278a6f95240270484&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dca-tm-livedazn.dazn.ticdn.it/stdbjd5zfeo41a5fawna88kob/web/stream.mpd?channel=1384&outlet=dazn-italy&plang=it
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dct-ak-livedazn.akamaized.net/@st%3D1765684803~exp%3D1765771203~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%2C1267%2C30722%2C31034%2C16276%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3De9fd649aa710bf8658663e7756e023d47641a3b91ebe7e26575f23e1ca37af1f/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:30 MILAN vs SASSUOLO [Opz. 2] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sunlau1-0-dash-live.zahs.tv/HD_dazn_event_2_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBYGEYTCNBRHA2TSRKBGQ2EGLJSIFBUGMKEIJAUMNSFGJDEINZZEZSHE3J5MV4HA2LSMF2GS33OHIYTONRWGMYTMMZQGETGS3TJORUWC3DSMF2GKPJYGAYDAJTNMF4HEYLUMU6TQMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLJOQTHG2LHHUZDAX3FGMYDQOJRHFSDQMDFGJRDSMJRGQZWIYRWGQ3DKNJZGZRTONTDGATHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORSGA3TKMBYGATHMPJQ|0000
+
+#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:30 MILAN vs SASSUOLO [Opz. 3] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sunlau1-1-dash-live.zahs.tv/HD_spalk_event_1_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBYGEYTCNBUIMZUKMCBGQYECLJSGI2UKMSGGQ3EIRRQINDEERCCEZSHE3J5MV4HA2LSMF2GS33OHIYTONRWGMYTMMZRGUTGS3TJORUWC3DSMF2GKPJYGAYDAJTNMF4HEYLUMU6TQMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLJOQTHG2LHHUZDCXZRGQ3DAYZZG43DONBWGY3GIMLCGAZDGMRXGJSGEZTBGY3TEMBVHATHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORSGA3TKMBYGATHMPJQ|0000
 
