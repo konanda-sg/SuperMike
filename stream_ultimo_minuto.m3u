@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-12-14 13:54:59
+# Generata il: 2025-12-14 15:13:59
 # Canali totali: 10
 
 #EXTINF:-1 tvg-id="DAZN4.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 DAZN 1 (ITA - MPD)
@@ -45,17 +45,21 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-pr
 #KODIPROP:inputstream.adaptive.license_key=cb6fce8df9b2300887c84f1aabf22319:3c49f225d443e1b27b85fa0731a75df2
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-06-prd-l-v2/dash-ch-06-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:30 MILAN vs SASSUOLO [Opz. 1] (ITA - MPD)
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 FIORENTINA vs VERONA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1765720206~exp%3D1765806606~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D9ec27650f0cb3a9c3e9a4cb30fdb6bd90685537cce0173723181d1bb445d169e%23wm%3D0~hmac%3Df56d4f4e683ecb3616d71a6b14a6441fed7d68228b7e5f3a4dfbbe612553382f/1hj9aksczvabr1rns9zmd11xzs/web/stream.mpd?channel=1349&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 UDINESE vs NAPOLI [Opz. 1] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 https://dct-ak-livedazn.akamaized.net/@st%3D1765684803~exp%3D1765771203~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%2C1267%2C30722%2C31034%2C16276%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3De9fd649aa710bf8658663e7756e023d47641a3b91ebe7e26575f23e1ca37af1f/dash/dazn-linear-206/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:30 MILAN vs SASSUOLO [Opz. 2] (ITA - MPD)
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 UDINESE vs NAPOLI [Opz. 2] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://sunlau1-0-dash-live.zahs.tv/HD_dazn_event_2_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBYGEYTCNBRHA2TSRKBGQ2EGLJSIFBUGMKEIJAUMNSFGJDEINZZEZSHE3J5MV4HA2LSMF2GS33OHIYTONRWGMYTMMZQGETGS3TJORUWC3DSMF2GKPJYGAYDAJTNMF4HEYLUMU6TQMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLJOQTHG2LHHUZDAX3FGMYDQOJRHFSDQMDFGJRDSMJRGQZWIYRWGQ3DKNJZGZRTONTDGATHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORSGA3TKMBYGATHMPJQ|0000
-
-#EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:30 MILAN vs SASSUOLO [Opz. 3] (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://sunlau1-1-dash-live.zahs.tv/HD_spalk_event_1_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBYGEYTCNBUIMZUKMCBGQYECLJSGI2UKMSGGQ3EIRRQINDEERCCEZSHE3J5MV4HA2LSMF2GS33OHIYTONRWGMYTMMZRGUTGS3TJORUWC3DSMF2GKPJYGAYDAJTNMF4HEYLUMU6TQMBQGATG22LOOJQXIZJ5GEYDAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLJOQTHG2LHHUZDCXZRGQ3DAYZZG43DONBWGY3GIMLCGAZDGMRXGJSGEZTBGY3TEMBVHATHG5LCORUXI3DFOM6WQ2LEMRSW4LLTMRUCM5LTMVZF62LEHVZWW6K7MNUDUORSGA3TKMBYGATHMPJQ|0000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1765718402~exp%3D1765804802~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Db1ec154b868a00a375c4b59c00da31f292208b64586b2266ecc8b08e21441ed4%23wm%3D1%23wmd%3D1152~hmac%3Df90861f8541f95b5db4387b0fd179167abab30fd25110ea7e893b523730e3a3a/1sa82jcsazxou1v4ccinz60vaz/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
 
