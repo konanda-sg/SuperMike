@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-12-14 12:39:36
-# Canali totali: 6
+# Generata il: 2025-12-14 12:54:41
+# Canali totali: 10
 
 #EXTINF:-1 tvg-id="DAZN4.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 DAZN 1 (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -9,17 +9,41 @@
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 https://dct-ak-livedazn.akamaized.net/@st%3D1765684803~exp%3D1765771203~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%2C1267%2C30722%2C31034%2C16276%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3De9fd649aa710bf8658663e7756e023d47641a3b91ebe7e26575f23e1ca37af1f/dash/dazn-linear-206/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:15 Trieste vs Reggio Emilia (LBATV1 - MPD)
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:00 Trapani Shark vs APU Udine (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:00 Trentino vs Umana Venezia (LBATV2 - MPD)
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 16:30 Bertram Tortona vs BdS Sassari (LBATV2 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 17:00 Germani Brescia vs Varse (LBATV3 - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 18:00 Guerri Napoli vs Vanoli Cremona (LBATV4 - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 19:00 Treviso vs Cantù (LBATV5 - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="20.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:00 EA7 Milano vs Virtus Bologna (LBATV6 - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb6fce8df9b2300887c84f1aabf22319:3c49f225d443e1b27b85fa0731a75df2
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-06-prd-l-v2/dash-ch-06-prd-l-hd/index.mpd
 
 #EXTINF:-1 tvg-id="La.5.it" group-title="EVENTI LIVE 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 12:30 MILAN vs SASSUOLO [Opz. 1] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
