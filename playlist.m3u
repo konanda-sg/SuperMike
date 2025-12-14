@@ -14,95 +14,109 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-pr
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",TNTSP1-Gen-002
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/powerbitt/logos/main/dazn.png" group-title="EVENTI LIVE 🏆",Dazn-Gen-002
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cfb5e2b73bef4f3c878f25ab86a7451f":"0d6712bf2a84edcc93d001a9613f6fec"}
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend%3A1765798143~geo%3AIT~asn%3A1267_8612_12874_3269_30722~path%3A1_1_85c98b3f47fbb7f9ce7d21944c935bdbff1aa0c90eda13e9ca45e6a2d64e6462~ua%3A362d7fe3d8b2581bffa359f0eeda7106~id%3A384b198332ce~tk3%3A6ebc23c63c14b06c0256e05e128ad33517abbe43b16a925812c09c304193675b&referer=https://www.dazn.com/&origin=https://www.dazn.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://dca-deit-livedazn.daznedge.net/fkd1r64146we129zsbxaq7nej/web/stream.mpd?channel=1346&outlet=dazn-italy&plang=en
+
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",TNTSP1-Gen-003
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d0f2e5c39e70c18f29bf77768a1ad89a":"d6853c51fcf37a18905f0609972395d7"}
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",IzziLiga-Gen-003
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",IzziLiga-Gen-004
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SKYNZ4-Gen-004
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SportTV2_PT-Gen-005
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0d28edf4f055409bb12d6d0260b26b6b":"bf69f8a33c39c31f5ff06ab52012e27c"}
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SKYNZ4-Gen-006
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"278b8746b7c7410e901af0aa3774f037":"15e1142d647b474ebbd49e41efa2a9d7"}
 https://sky-nz.b-cdn.net/skysport4/master.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SKYNZ5-Gen-005
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SKYNZ5-Gen-007
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"fdd24dd2c6c14126ad7c1ad1066b03dd":"08289c6d57d54e8d8dca55e1862afb82"}
 https://sky-nz.b-cdn.net/skysport5/master.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SKYNZ9-Gen-006
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SKYNZ9-Gen-008
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"72002c630e2343849984b5d3ec418162":"ae6f8e3ff42a4963ae25686cca56c8e8"}
 https://sky-nz.b-cdn.net/skysport9/master.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SKYNZ3-Gen-007
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SKYNZ3-Gen-009
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2e2636daa74141b68cc14882ea3ff82b":"0961f48287324adbb4b7ff3c9d82b3c9"}
 https://sky-nz.b-cdn.net/skysport3/master.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",Dazn3_PT-Gen-008
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",Dazn3_PT-Gen-010
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV2-Gen-010
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV2-Gen-012
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV3-Gen-011
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV3-Gen-013
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",Dazn1_PT-Gen-012
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",Dazn1_PT-Gen-014
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",ESPN2_SUR-Gen-013
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",ESPN2_SUR-Gen-015
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8d7cb8fbc81cf3eddf8ebb5db5e11282":"b7a98812ab8d8974649a6ec420c013e1"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV4-Gen-014
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV4-Gen-016
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SportTV2_PT-Gen-015
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",SPORTCALCIO-Gen-017
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0d28edf4f055409bb12d6d0260b26b6b":"bf69f8a33c39c31f5ff06ab52012e27c"}
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#KODIPROP:inputstream.adaptive.license_key=111572ed048652d5f9c2d92edd99d41b:4afeae8224fb62348a88b9cd3fbbdaa8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0&referer=https://www.nowtv.it/&origin=https://www.nowtv.it
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1765803543_s~45caead0-09fa-479c-bc2e-97f080d592e2_u~a6c09a82798a68be7620125fdb5e01902432d7310039c3d25bb1d941d73f16702bff6eeb4d4c6e0ac4d2b1682d36d66b_l~60_x~e2fefd68c4fde1f5ef25b048875f4e5f77f13d785f54194264c0096f7e8f5e18/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV5-Gen-017
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV5-Gen-020
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.lbatv.com/&origin=https://www.lbatv.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV6-Gen-018
+#EXTINF:-1 tvg-logo="" group-title="EVENTI LIVE 🏆",LBATV6-Gen-021
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb6fce8df9b2300887c84f1aabf22319:3c49f225d443e1b27b85fa0731a75df2
