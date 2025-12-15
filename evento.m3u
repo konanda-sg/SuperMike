@@ -3,20 +3,5 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765651437~exp%3D1765737837~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%2C206150%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3Dd03aeee0ecc8913e66c30fb36964db93a8ed2686b396104a42ed49f56725fa5c&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5tqrttdqjs34bh7gnbxs0gzje_image-header_pIt_1758299342000/fill/none/top/none/85/417/233/webp/image" group-title="EVENTI LIVE 🏆",GENOA - INTER
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=tend%3A1765815329~geo%3AIT~asn%3A210218_198471_206150~path%3A1_1_8f3da5adcebe4a0e3b77eac8862dc73433d24aa90b62f734d56be9b76029125d~ua%3A89db729cfcdc129111f017b0e7ac324a~id%3A5e0eb30d683c~tk3%3A9cb605faf468bf3102626dc3c28ea390d1daacd56c3390819f19db543669c152&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dca-deit-livedazn.daznedge.net/w251cm046s471nv6nvr1w87xs/web/stream.mpd?channel=1350&outlet=dazn-italy&plang=en
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="EVENTI LIVE 🏆",DAZN 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjU4MTU5MDEsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI1ZTBlYjMwZDY4M2MiLCJnZW8iOiJpdCIsImFzbiI6WyIyMTAyMTgiLCIxOTg0NzEiLCIyMDYxNTAiXSwidWEiOiI2MGRjZTI5Y2RlODVmZDgwZTYyZDM1ZTRiZTdlOTkzOTE4ZWI5YzA3IiwiaWF0IjoxNzY1NzI5NTAxfQ.YJrvoPJc4fc5hLfrNqN__74M2kh75iPc_d3CZw4umLw&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dct-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765817307~exp%3D1765903707~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%2C206150%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D7f169fa9d304646fef3e4ffcea91b66b7309ff3545eac0bba23d2d45e73bed00&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
