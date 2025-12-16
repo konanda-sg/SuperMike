@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/960px-DAZN_1_Logo.svg.png" group-title="EVENTI LIVE 🏆",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/960px-DAZN_1_Logo.svg.png?20210827134204" group-title="Serie A 🇮🇹",DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765817307~exp%3D1765903707~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%2C206150%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3D7f169fa9d304646fef3e4ffcea91b66b7309ff3545eac0bba23d2d45e73bed00&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765869030~exp%3D1765955430~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%2C206150%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3Dbe1625f06d6f5a84bdcb9df7b015fa4cff2320aa159e23f2b852d2378472d34a&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/960px-DAZN_1_Logo.svg.png" group-title="EVENTI LIVE 🏆",Dazn 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st%3D1765817295~exp%3D1765903695~acl%3D%2F*~id%3D5e0eb30d683c~data%3Dcountry%3Dit%23asn%3D210218%2C198471%2C206150%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D62d18984722ed057781bce4342a009271fd0bf4799981a048ca348f09af03584~hmac%3Ddd760b3e663d585bf65fcaa4368505d1a62383497a57d31628774a7a1fa2cd82&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
